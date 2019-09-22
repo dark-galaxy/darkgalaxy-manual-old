@@ -1,1 +1,7 @@
-[Home](/)
+**Game Pages**
+
+* [Home]: /home/
+
+  
+
+  
