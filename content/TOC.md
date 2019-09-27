@@ -13,7 +13,7 @@
         - [Building](/interface-gameplay/planets/building)
         - [Ship yard](/interface-gameplay/planets/ship-yard)
         - [Barracks](/interface-gameplay/planets/barracks)
-        - [Communications](/interface-gameplay/planet/communications)
+        - [Communications](/interface-gameplay/planets/communications)
             - [Radar](/interface-gameplay/planets/communications/radar)
             - [Scanning](/interface-gameplay/planets/communications/scanning)
     3. [Fleets](/interface-gameplay/fleets)
