@@ -1,5 +1,5 @@
 1. [Introduction](/)
-2. [Getting started](/getting-started)
+2. [Getting started](/content/getting-started.md)
     1. [Core concepts](/getting-started/core-concepts)
     2. [Objectives](/getting-started/objectives)
     3. [Resources & economy](/getting-started/resources-and-economy)
