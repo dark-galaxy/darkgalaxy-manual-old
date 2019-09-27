@@ -1,6 +1,6 @@
 **Contents**
 
-1. [Introduction](/index.md)
+1. [Introduction](/)
 2. [Getting started](/getting-started)
     1. [Core concepts](/getting-started/core-concepts)
     2. [Objectives](/getting-started/objectives)
