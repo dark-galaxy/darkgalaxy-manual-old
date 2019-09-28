@@ -1,4 +1,4 @@
-# darkgalaxy-manual
+# Darkgalaxy Manual
 Welcome to the Dark Galaxy Manual project.
 
 This project exists to allow the community to assist with the creation of a game manual, in a generally central location, designed to ease general contributions, with a relatively quick update time.
