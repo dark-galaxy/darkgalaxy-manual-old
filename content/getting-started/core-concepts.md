@@ -70,6 +70,6 @@ Each tick your empire will produce 1 Research Point. This is a flat amount and d
 Once you have accrued enough points you can choose to spend them to advance your empire. For full details of all research options please see the [Tech Tree](/content/reference/tech-tree.md).
 
 
-[metal]: https://raw.githubusercontent.com/FrostyCoolSlug/darkgalaxy-manual/master/assets/resources/metal.gif "Metal"
-[mineral]: https://raw.githubusercontent.com/FrostyCoolSlug/darkgalaxy-manual/master/assets/resources/mineral.gif "Mineral"
-[energy]: https://raw.githubusercontent.com/FrostyCoolSlug/darkgalaxy-manual/master/assets/resources/energy.gif "Energy"
+[metal]: /assets/resources/metal.gif "Metal"
+[mineral]: /assets/resources/mineral.gif "Mineral"
+[energy]: /assets/resources/energy.gif "Energy"
