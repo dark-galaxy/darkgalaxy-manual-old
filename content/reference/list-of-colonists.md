@@ -35,15 +35,11 @@
     </tbody>
 </table>
 
-<div id="worker"></div>
-
-## Workers
+## Worker
 
 Workers are used in the building of all objects in the game and act as planet defence against Invasion. Your planet will naturally grow population at steady rate until your housing is filled.
 
-<div id="soldier"></div>
-
-## Soldiers
+## Soldier
 
 An Army Barracks is required to begin Training Soldiers.
 
