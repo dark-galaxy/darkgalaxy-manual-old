@@ -5,17 +5,17 @@
         <tr><td colspan="7">Types of colonist</td></tr>
         <tr>
             <th>Name</th>
-            <th>![Metal][metal]</th>
-            <th>![Mineral][metal]</th>
-            <th>![Workers][worker]</th>
-            <th>![Turns][turns]</th>
+            <th><img src="https://raw.githubusercontent.com/Muffinman/darkgalaxy-manual/master/assets/resources/metal.gif" alt="Metal" /></th>
+            <th><img src="https://raw.githubusercontent.com/Muffinman/darkgalaxy-manual/master/assets/resources/mineral.gif" alt="Mineral" /></th>
+            <th><img src="https://raw.githubusercontent.com/Muffinman/darkgalaxy-manual/master/assets/colonists/worker.gif" alt="Worker" /></th>
+            <th><img src="https://raw.githubusercontent.com/Muffinman/darkgalaxy-manual/master/assets/resources/turns.gif" alt="Turns" /></th>
             <th>Requirements</th>
             <th>Score</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>![Worker][worker] Worker</th>
+            <th><img src="https://raw.githubusercontent.com/Muffinman/darkgalaxy-manual/master/assets/colonists/worker.gif" alt="Worker" /> Worker</th>
             <td>-</td>
             <td>-</td>
             <td>-</td>
@@ -27,7 +27,7 @@
             <td colspan="7">Workers are used in the building of all objects in the game and act as planet defence against Invasion. Your planet will naturally grow population at steady rate until your housing is filled.</td>
         </tr>
         <tr>
-            <th>![Soldier][soldier] Soldier</th>
+            <th><img src="https://raw.githubusercontent.com/Muffinman/darkgalaxy-manual/master/assets/colonists/soldier.gif" alt="Soldier" /> Soldier</th>
             <td>30</td>
             <td>20</td>
             <td>10</td>
@@ -44,10 +44,3 @@
         </tr>
     </tbody>
 </table>
-
-
-[metal]: /assets/resources/metal.gif "Metal"
-[mineral]: /assets/resources/mineral.gif "Mineral"
-[worker]: /assets/colonists/worker.gif "Worker"
-[soldier]: /assets/colonists/soldier.gif "Soldier"
-
