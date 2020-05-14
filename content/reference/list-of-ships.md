@@ -73,7 +73,6 @@
 			<td>[!Battleship:REQUIREMENTS:0!]</td>
 			<td>[!Battleship:SCORE:Asset!]</td>
 		</tr>
-		
 		<tr>
 			<td>Outpost_Ship</td>
 			<td>[!Outpost_Ship:CONDITION:Metal!]</td>
@@ -114,7 +113,6 @@
 			<td>[!Trader:REQUIREMENTS:0!]</td>
 			<td>[!Trader:SCORE:Asset!]</td>
 		</tr>
-		
 		<tr>
 			<td>Holo_Projector</td>
 			<td>[!Holo_Projector:CONDITION:Metal!]</td>
