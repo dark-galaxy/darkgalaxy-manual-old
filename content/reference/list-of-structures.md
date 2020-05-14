@@ -125,7 +125,7 @@
     	<td>Solar Generator</td>
     	<td class="metal">[!Solar_Generator:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Generator:CONDITION:Mineral!]</td>
-        <td class="energy">[!Solar_Generator:UPKEEP:Energy!]</td>
+        <td class="energy">&nbsp;</td>
         <td>[!Solar_Generator:CONDITION:Ground!]</td>
         <td>[!Solar_Generator:CONDITION:Orbit!]</td>
     	<td class="population">[!Solar_Generator:CONDITION:Worker!]</td>
@@ -136,6 +136,21 @@
     	<td>[!Solar_Generator:DEMOLISH:0!]</td>
 		<td>[!Solar_Generator:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td class="energy">[!Solar_Generator:UPKEEP:Energy!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
 	<tr>
     	<td>Living Quarters</td>
@@ -353,7 +368,7 @@
     	<td>Solar Array</td>
     	<td class="metal">[!Solar_Array:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Array:CONDITION:Mineral!]</td>
-        <td class="energy">[!Solar_Array:UPKEEP:Energy!]</td>
+        <td class="energy">&nbsp;</td>
         <td>[!Solar_Array:CONDITION:Ground!]</td>
         <td>[!Solar_Array:CONDITION:Orbit!]</td>
     	<td class="population">[!Solar_Array:CONDITION:Worker!]</td>
@@ -364,6 +379,22 @@
     	<td>[!Solar_Array:DEMOLISH:0!]</td>
 		<td>[!Solar_Array:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td class="energy">[!Solar_Array:UPKEEP:Energy!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
+
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
 	<tr>
     	<td>Resource Converter</td>
@@ -551,7 +582,7 @@
     	<td>Solar Station</td>
     	<td class="metal">[!Solar_Station:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Station:CONDITION:Mineral!]</td>
-        <td class="energy">[!Solar_Station:UPKEEP:Energy!]</td>
+        <td class="energy">&nbsp;</td>
         <td>[!Solar_Station:CONDITION:Ground!]</td>
         <td>[!Solar_Station:CONDITION:Orbit!]</td>
     	<td class="population">[!Solar_Station:CONDITION:Worker!]</td>
@@ -562,6 +593,21 @@
     	<td>[!Solar_Station:DEMOLISH:0!]</td>
 		<td>[!Solar_Station:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td class="energy">[!Solar_Station:UPKEEP:Energy!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
 	<tr>
     	<td>Hospital</td>
     	<td class="metal">[!Hospital:CONDITION:Metal!]</td>
