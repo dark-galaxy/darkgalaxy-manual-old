@@ -8,24 +8,43 @@ Once the round is over, there is usually a brief cool-off period before the next
 
 Due to the relatively slow progress of the game, you don't need to log in every hour to keep an eye on your empire, as creating ships and buildings can take anything from 2 - 48 hours, although you might want to occasionally keep an eye on your [Radar](/content/interface-gameplay/planets/communications/radar.md), to ensure no one is approaching your planets!
 
-## Your Home Planet
-Planets are things you need to expand your empire. Many of them exist in the [Universe](/content/getting-started/universe.md), all ripe for colonisation or invasion!
+
+
+## The Universe
+
+The Universe is a vast place containing many planets (shocking, eh?). The universe consists of 49 galaxies and thousands of planets. The galaxy is organised into 'rings', with Galaxy 1 being in the center as the most dangerous and yet the most lucritive place to play. The outer ring contains planets with the lowest abundances, but because of this it will also be the least competitive area to play.
+
+The goal of the universe is to encourage players to play where they feel comfortable, for new players it's wise to avoid going into Galaxy 1 on your first outing to avoid being overwhelmed by hyper competitive alliances, but nothing's stopping you colonising an outer planet then making tactical plays into the more central areas!
+
+All fleets can move from and to any planet in the universe (with varying travel times), you can also retreat back to your Home Planet if needed.
+
+See the [Universe Page](/content/getting-started/core-concepts/the-universe.md) for more details on how the universe works.
+
+
+
+## Planets
+Planets are things you'll need to expand your empire. Many of them exist in the [Universe](/content/getting-started/universe.md), all ripe for colonisation or invasion!
 
 When you first login to Dark Galaxy you'll start the game on your home planet, which is a safe space and cannot be travelled to, or attacked, by any other player. This planet is here to allow you to get a feel for the game, and give you somewhere safe in the event you run into problems elsewhere in the universe.
 
-Your planet will produce [resources](/content/reference/list-of-resources.md), which you can then choose to spend on buildings, ships or soldiers.
+Your Home World, as well as any planets you colonise or invade will produce [resources](/content/reference/list-of-resources.md) from structures based on the planet abundances. These Resources can be spent on Structures, Ships, Soldiers or Scans.
 
-Your home world will come equipped with a single Outpost Ship which can be used to immediately begin colonising the universe, all you need to do is create a fleet from your planets Ship Yard, transfer the outpost into it, and send it out into the unknown.
+See the [Planets Page](/content/getting-started/core-concepts/planets.md) for more details on how planets work.
+
+
 
 
 ## Resources
-There are 3 main [resource types](/content/reference/list-of-resources.md) in the game.
+There are 4 main [resource types](/content/reference/list-of-resources.md) in the game.
 
 * ![Metal][metal] Metal
 * ![Mineral][mineral] Mineral
 * ![Energy][energy] Energy
+* ![Worker][worker] Workers
 
-In general ![Metal][metal] Metal and ![Mineral][mineral] Mineral are the most important, and will be what you spend when [building structures](/content/interface-gameplay/planets/building.md) and [ships](/content/interface-gameplay/planets/ship-yard.md), ![Energy][energy] Energy is required to power structures, perform scans, or create Holographic Ships.
+In general ![Metal][metal] Metal and ![Mineral][mineral] Mineral are the most important, and will be what you spend when [building structures](/content/interface-gameplay/planets/building.md) and [ships](/content/interface-gameplay/planets/ship-yard.md). ![Energy][energy] Energy is required to power structures, perform scans, or create Holographic Ships.
+
+![Worker][worker] Workers are needed for construction of structures and ships, they can also be trained into Soldiers.
 
 
 ## The Ship Yard
@@ -52,3 +71,4 @@ Once you have accrued enough points you can choose to spend them to advance your
 [metal]: /assets/resources/metal.gif "Metal"
 [mineral]: /assets/resources/mineral.gif "Mineral"
 [energy]: /assets/resources/energy.gif "Energy"
+[ worker ]: /assets/resources/worker.gif "Worker"
