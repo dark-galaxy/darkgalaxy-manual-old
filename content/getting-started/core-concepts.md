@@ -6,7 +6,7 @@ Dark Galaxy is a turn-based strategy game - that means turns update synchronousl
 
 Once the round is over, there is usually a brief cool-off period before the next round starts. The exact times above are subject to change at the discretion of the game admin. It has been known for some rounds to go on much longer than the above.
 
-Due to the relatively slow progress of the game, you don't need to log in every hour to keep an eye on your empire, as creating ships and buildings can take anything from 2 - 48 hours, although you might want to occasionally keep an eye on your [Radar](/content/interface-gameplay/planets/communications/radar.md), to ensure no one is approaching your planets!
+Due to the relatively slow progress of the game, you don't need to log in every hour to keep an eye on your empire, as creating ships and buildings can take anything from 2 - 48 hours, although you might want to occasionally keep an eye on your [Radar](/content/interface-and-gameplay/planets/communications/radar.md), to ensure no one is approaching your planets!
 
 
 
@@ -42,7 +42,7 @@ There are 4 main [resource types](/content/reference/list-of-resources.md) in th
 * ![Energy][energy] Energy
 * ![Worker][worker] Workers
 
-In general ![Metal][metal] Metal and ![Mineral][mineral] Mineral are the most important, and will be what you spend when [building structures](/content/interface-gameplay/planets/building.md) and [ships](/content/interface-gameplay/planets/ship-yard.md). ![Energy][energy] Energy is required to power structures, perform scans, or create Holographic Ships.
+In general ![Metal][metal] Metal and ![Mineral][mineral] Mineral are the most important, and will be what you spend when [building structures](/content/interface-and-gameplay/planets/building.md) and [ships](/content/interface-and-gameplay/planets/ship-yard.md). ![Energy][energy] Energy is required to power structures, perform scans, or create Holographic Ships.
 
 ![Worker][worker] Workers are needed for construction of structures and ships, they can also be trained into Soldiers.
 
@@ -59,7 +59,7 @@ See the full [ship list](/content/reference/list-of-ships.md) for full details o
 
 
 ## Training
-On each planet where you have constructed a Barracks, you'll have access to [train soldiers](/content/interface-gameplay/planets/barracks.md). Soldiers can be used to defend your planets and invade the planets of others.
+On each planet where you have constructed a Barracks, you'll have access to [train soldiers](/content/interface-and-gameplay/planets/barracks.md). Soldiers can be used to defend your planets and invade the planets of others.
 
 
 ## Research

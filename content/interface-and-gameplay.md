@@ -1,5 +1,3 @@
-# Interface and gameplay
-
 The core idea of the game is simple, to generate resources which will allow you to expand beyond your original starting planet and attempt to have a higher score than anyone else. 
 
 At the start of the game you begin with your home planet. This has the same coordinates as all other home planets but you can only travel to your own. This is a protected planet and cannot be attacked by anyone else. 
