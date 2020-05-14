@@ -31,12 +31,12 @@ This section provides you with the following pieces of information (in order):
 
 
 
-The planets ![Coord][coord] coordinate is defined by it's place in [the universe](/content/getting-started/core-concepts/the-universe.md), and you set the name when you signed up / colonised / invaded, so those are straight foward. The ![Worker][worker] information is split into four pieces:
+The planets ![Coord][coord] coordinate is defined by it's place in [the universe](/content/getting-started/core-concepts/the-universe.md), and you set the name when you signed up / colonised / invaded, so those are straight foward. The ![Worker][worker] worker information is split into four pieces:
 
-* The number of ![Worker][worker] Workers available, and ready to work, these can be used on Structures, Ships or Training
-* The total ![Worker][worker]Worker capacity of the planet, this can be increased with Structures such as the Living Quarters
+* The number of workers available, and ready to work, these can be used on Structures, Ships or Training
+* The total Worker capacity of the planet, this can be increased with Structures such as the Living Quarters
 * The Amount of workers being generated per-turn, this can be influenced by structures such as Farms
-* The number of ![Worker][worker] Worker's which are currently Occupied performing other tasks
+* The number of worker's which are currently Occupied performing other tasks
 
 ![Soldier][soldier] Soldiers are there to help protect your planet, or be used for invasion. The numbers here show how many soldiers are present on a planet, as well as the maximum soldier capacity of a planet. The Army Barracks can be used to train soldiers, as well as increase the soldier capacity on a planet.
 
@@ -56,7 +56,7 @@ The stored amount denotes immediately available resources for Construction, or P
 
 Output is the combined output of all resource producing structures on your planet, (mines, extractors, generators, et al). As each turn ticks, the number shown here is added to the Stored count for the planet.
 
-The abundance value is a multiplier for structure output. In the example above, the ![Metal][metal]Metal Abundance is at 70%, from the [list of structures](/content/reference/list-of-structures.md) we know that a metal mine has a metal output of of ![Metal][metal]300, so the metal output of a Metal Mine on that Planet will be 300 / 100 * 70 = 210. Different planets have different abundances (some up to 150%), and having a higher abundance will result in a higher output on a planet, meaning a much higher resource output.
+The abundance value is a multiplier for resource output. In the example above the Metal Abundance is at 70% and from the [list of structures](/content/reference/list-of-structures.md) we know that a metal mine has a base metal output of 300 metal per turn. To calculate how much metal you'll receive from a mine on that planet, you calculate `base / 100 * abundance`  so `300 / 100 * 70 = 210`. Don't worry, you wont have to do this calculation yourself, each structure has a popup on hover (or touch, on mobile) which provides you with the output of a structure if built. Different planets have different abundances (some up to 150%), and having a higher abundance will result in a higher output on a planet, reducing the time it takes to gather resources for structures and ships.
 
 
 
