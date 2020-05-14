@@ -47,6 +47,21 @@
 		<td>[!Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
+		<td style="font-weight: normal; text-align: right; font-decoration: italic">Output:</td>
+		<td>[!Metal_Mine:UPKEEP:Metal!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
+	<tr>
     	<td>Mineral_Extractor</td>
     	<td class="metal">[!Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Mineral_Extractor:CONDITION:Mineral!]</td>
