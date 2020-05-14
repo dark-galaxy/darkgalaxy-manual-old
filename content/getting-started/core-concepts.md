@@ -29,7 +29,7 @@ When you first login to Dark Galaxy you'll start the game on your home planet, w
 
 Your Home World, as well as any planets you colonise or invade will produce [resources](/content/reference/list-of-resources.md) from structures based on the planet abundances. These Resources can be spent on Structures, Ships, Soldiers or Scans.
 
-See the [Planets Page](/content/getting-started/core-concepts/planets.md) for more details on how planets work.
+See the [Planet Resources Page](/content/getting-started/core-concepts/planet-resources.md) for more details on how resource income works, and is calculated.
 
 
 
