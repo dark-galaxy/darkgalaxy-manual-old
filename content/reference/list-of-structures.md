@@ -471,7 +471,7 @@
 		<td>[!Holo_Generator:SCORE:Asset!]</td>
     </tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3</td></tr>
-	<tr class="dark border>
+	<tr class="dark border">
     	<td>Metropolis</td>
     	<td class="metal">[!Metropolis:CONDITION:Metal!]</td>
     	<td class="mineral">[!Metropolis:CONDITION:Mineral!]</td>
