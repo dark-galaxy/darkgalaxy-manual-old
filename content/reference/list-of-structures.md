@@ -1,5 +1,5 @@
 <table>
-    <tr><td colspan="12">Standard Buildings</td></tr>
+    <tr><td colspan="11">Standard Buildings</td></tr>
     <tr>
     	<th>Name</td>
     	<th><img src="/assets/resources/metal.gif" alt="Metal" /></th>
@@ -16,7 +16,7 @@
 	<tr>
     	<td>Outpost</td>
     	<td class="metal">[!Outpost:CONDITION:Metal!]</td>
-    	<td class="mineral>[!Outpost:CONDITION:Mineral!]</td>
+    	<td class="mineral">[!Outpost:CONDITION:Mineral!]</td>
         <td class="energy">[!Outpost:CONDITION:Energy!]</td>
         <td>[!Outpost:CONDITION:Ground!]</td>
         <td>[!Outpost:CONDITION:Orbit!]</td>
