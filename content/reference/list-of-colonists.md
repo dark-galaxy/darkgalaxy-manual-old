@@ -15,7 +15,7 @@
     </thead>
     <tbody>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/units/small/worker.png" alt="Worker" /> <a href="#worker">Worker</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/units/small/worker.png" alt="Worker" /> <a href="#worker">Worker</a></td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
@@ -24,7 +24,7 @@
             <td>0.001</td>
         </tr>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/units/small/soldier.png" alt="Soldier" /> <a href="#soldier">Soldier</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/units/small/soldier.png" alt="Soldier" /> <a href="#soldier">Soldier</a></td>
             <td>30</td>
             <td>20</td>
             <td>10</td>
