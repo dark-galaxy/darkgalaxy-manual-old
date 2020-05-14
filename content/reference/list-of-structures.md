@@ -1,4 +1,4 @@
-<table>
+<table class="collapse">
     <tr><td colspan="13">Standard Buildings</td></tr>
     <tr>
     	<th>Name</td>
@@ -31,7 +31,7 @@
 		<td>[!Outpost:SCORE:Asset!]</td>
     </tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
-	<tr>
+	<tr class="light border">
     	<td>Metal Mine</td>
     	<td class="metal">[!Metal_Mine:CONDITION:Metal!]</td>
     	<td class="mineral">[!Metal_Mine:CONDITION:Mineral!]</td>
@@ -46,7 +46,7 @@
     	<td>[!Metal_Mine:DEMOLISH:0!]</td>
 		<td>[!Metal_Mine:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td class="metal">[!Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
@@ -61,7 +61,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="dark border">
     	<td>Mineral Extractor</td>
     	<td class="metal">[!Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Mineral_Extractor:CONDITION:Mineral!]</td>
@@ -76,7 +76,7 @@
     	<td>[!Mineral_Extractor:DEMOLISH:0!]</td>
 		<td>[!Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td class="mineral">[!Mineral_Extractor:UPKEEP:Mineral!]</td>
@@ -91,7 +91,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="light border">
     	<td>Farm</td>
     	<td class="metal">[!Farm:CONDITION:Metal!]</td>
     	<td class="mineral">[!Farm:CONDITION:Mineral!]</td>
@@ -106,7 +106,7 @@
     	<td>[!Farm:DEMOLISH:0!]</td>
 		<td>[!Farm:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -121,7 +121,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="dark border">
     	<td>Solar Generator</td>
     	<td class="metal">[!Solar_Generator:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Generator:CONDITION:Mineral!]</td>
@@ -136,7 +136,7 @@
     	<td>[!Solar_Generator:DEMOLISH:0!]</td>
 		<td>[!Solar_Generator:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -152,7 +152,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
-	<tr>
+	<tr class="light border">
     	<td>Living Quarters</td>
     	<td class="metal">[!Living_Quarters:CONDITION:Metal!]</td>
     	<td class="mineral">[!Living_Quarters:CONDITION:Mineral!]</td>
@@ -167,7 +167,7 @@
     	<td>[!Living_Quarters:DEMOLISH:0!]</td>
 		<td>[!Living_Quarters:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark border">
     	<td>Launch_Site</td>
     	<td class="metal">[!Launch_Site:CONDITION:Metal!]</td>
     	<td class="mineral">[!Launch_Site:CONDITION:Mineral!]</td>
@@ -182,7 +182,7 @@
     	<td>[!Launch_Site:DEMOLISH:0!]</td>
 		<td>[!Launch_Site:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light border">
     	<td>Ship Yard</td>
     	<td class="metal">[!Ship_Yard:CONDITION:Metal!]</td>
     	<td class="mineral">[!Ship_Yard:CONDITION:Mineral!]</td>
@@ -197,7 +197,7 @@
     	<td>[!Ship_Yard:DEMOLISH:0!]</td>
 		<td>[!Ship_Yard:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark border">
     	<td>Comms Satellite</td>
     	<td class="metal">[!Comms_Satellite:CONDITION:Metal!]</td>
     	<td class="mineral">[!Comms_Satellite:CONDITION:Mineral!]</td>
@@ -212,7 +212,7 @@
     	<td>[!Comms_Satellite:DEMOLISH:0!]</td>
 		<td>[!Comms_Satellite:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light border">
     	<td>Habitat</td>
     	<td class="metal">[!Habitat:CONDITION:Metal!]</td>
     	<td class="mineral">[!Habitat:CONDITION:Mineral!]</td>
@@ -228,7 +228,7 @@
 		<td>[!Habitat:SCORE:Asset!]</td>
     </tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2</td></tr>
-	<tr>
+	<tr class="dark border">
     	<td>Colony</td>
     	<td class="metal">[!Colony:CONDITION:Metal!]</td>
     	<td class="mineral">[!Colony:CONDITION:Mineral!]</td>
@@ -244,7 +244,7 @@
 		<td>[!Colony:SCORE:Asset!]</td>
     </tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
-	<tr>
+	<tr class="light border">
     	<td>Core Metal Mine</td>
     	<td class="metal">[!Core_Metal_Mine:CONDITION:Metal!]</td>
     	<td class="mineral">[!Core_Metal_Mine:CONDITION:Mineral!]</td>
@@ -259,7 +259,7 @@
     	<td>[!Core_Metal_Mine:DEMOLISH:0!]</td>
 		<td>[!Core_Metal_Mine:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td class="metal">[!Core_Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
@@ -274,7 +274,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="dark border">
     	<td>Core Mineral Extractor</td>
     	<td class="metal">[!Core_Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Core_Mineral_Extractor:CONDITION:Mineral!]</td>
@@ -289,7 +289,7 @@
     	<td>[!Core_Mineral_Extractor:DEMOLISH:0!]</td>
 		<td>[!Core_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td class="mineral">[!Core_Mineral_Extractor:UPKEEP:Mineral!]</td>
@@ -304,7 +304,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="light border">
     	<td>Leisure Centre</td>
     	<td class="metal">[!Leisure_Centre:CONDITION:Metal!]</td>
     	<td class="mineral">[!Leisure_Centre:CONDITION:Mineral!]</td>
@@ -319,7 +319,7 @@
     	<td>[!Leisure_Centre:DEMOLISH:0!]</td>
 		<td>[!Leisure_Centre:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -334,7 +334,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="light border">
     	<td>Hydroponics Lab</td>
     	<td class="metal">[!Hydroponics_Lab:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hydroponics_Lab:CONDITION:Mineral!]</td>
@@ -349,7 +349,7 @@
     	<td>[!Hydroponics_Lab:DEMOLISH:0!]</td>
 		<td>[!Hydroponics_Lab:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -364,7 +364,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="dark border">
     	<td>Solar Array</td>
     	<td class="metal">[!Solar_Array:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Array:CONDITION:Mineral!]</td>
@@ -379,7 +379,7 @@
     	<td>[!Solar_Array:DEMOLISH:0!]</td>
 		<td>[!Solar_Array:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -395,7 +395,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
-	<tr>
+	<tr class="light border">
     	<td>Resource Converter</td>
     	<td class="metal">[!Resource_Converter:CONDITION:Metal!]</td>
     	<td class="mineral">[!Resource_Converter:CONDITION:Mineral!]</td>
@@ -410,7 +410,7 @@
     	<td>[!Resource_Converter:DEMOLISH:0!]</td>
 		<td>[!Resource_Converter:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark border">
     	<td>Light Weapons Factory</td>
     	<td class="metal">[!Light_Weapons_Factory:CONDITION:Metal!]</td>
     	<td class="mineral">[!Light_Weapons_Factory:CONDITION:Mineral!]</td>
@@ -425,7 +425,7 @@
     	<td>[!Light_Weapons_Factory:DEMOLISH:0!]</td>
 		<td>[!Light_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light border>
     	<td>Army Barracks</td>
     	<td class="metal">[!Army_Barracks:CONDITION:Metal!]</td>
     	<td class="mineral">[!Army_Barracks:CONDITION:Mineral!]</td>
@@ -440,7 +440,7 @@
     	<td>[!Army_Barracks:DEMOLISH:0!]</td>
 		<td>[!Army_Barracks:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark border">
     	<td>Hyperspace Beacon</td>
     	<td class="metal">[!Hyperspace_Beacon:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hyperspace_Beacon:CONDITION:Mineral!]</td>
@@ -455,7 +455,7 @@
     	<td>[!Hyperspace_Beacon:DEMOLISH:0!]</td>
 		<td>[!Hyperspace_Beacon:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light border">
     	<td>Holo Generator</td>
     	<td class="metal">[!Holo_Generator:CONDITION:Metal!]</td>
     	<td class="mineral">[!Holo_Generator:CONDITION:Mineral!]</td>
@@ -471,7 +471,7 @@
 		<td>[!Holo_Generator:SCORE:Asset!]</td>
     </tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3</td></tr>
-	<tr>
+	<tr class="dark border>
     	<td>Metropolis</td>
     	<td class="metal">[!Metropolis:CONDITION:Metal!]</td>
     	<td class="mineral">[!Metropolis:CONDITION:Mineral!]</td>
@@ -487,7 +487,7 @@
 		<td>[!Metropolis:SCORE:Asset!]</td>
     </tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
-	<tr>
+	<tr class="light border">
     	<td>Strip Metal Mine</td>
     	<td class="metal">[!Strip_Metal_Mine:CONDITION:Metal!]</td>
     	<td class="mineral">[!Strip_Metal_Mine:CONDITION:Mineral!]</td>
@@ -502,7 +502,7 @@
     	<td>[!Strip_Metal_Mine:DEMOLISH:0!]</td>
 		<td>[!Strip_Metal_Mine:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td class="metal">[!Strip_Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
@@ -517,7 +517,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="dark border">
     	<td>Strip Mineral Extractor</td>
     	<td class="metal">[!Strip_Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Strip_Mineral_Extractor:CONDITION:Mineral!]</td>
@@ -532,7 +532,7 @@
     	<td>[!Strip_Mineral_Extractor:DEMOLISH:0!]</td>
 		<td>[!Strip_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td class="mineral">[!Strip_Mineral_Extractor:UPKEEP:Mineral!]</td>
@@ -547,7 +547,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="light border">
     	<td>Hydroponics Dome</td>
     	<td class="metal">[!Hydroponics_Dome:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hydroponics_Dome:CONDITION:Mineral!]</td>
@@ -562,7 +562,7 @@
     	<td>[!Hydroponics_Dome:DEMOLISH:0!]</td>
 		<td>[!Hydroponics_Dome:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -577,7 +577,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="light border">
     	<td>Solar Station</td>
     	<td class="metal">[!Solar_Station:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Station:CONDITION:Mineral!]</td>
@@ -592,7 +592,7 @@
     	<td>[!Solar_Station:DEMOLISH:0!]</td>
 		<td>[!Solar_Station:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -607,7 +607,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr>
+	<tr class="dark border">
     	<td>Hospital</td>
     	<td class="metal">[!Hospital:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hospital:CONDITION:Mineral!]</td>
@@ -622,7 +622,7 @@
     	<td>[!Hospital:DEMOLISH:0!]</td>
 		<td>[!Hospital:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -638,7 +638,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
-	<tr>
+	<tr class="light border">
     	<td>Land Reclamation</td>
     	<td class="metal">[!Land_Reclamation:CONDITION:Metal!]</td>
     	<td class="mineral">[!Land_Reclamation:CONDITION:Mineral!]</td>
@@ -653,7 +653,7 @@
     	<td>[!Land_Reclamation:DEMOLISH:0!]</td>
 		<td>[!Land_Reclamation:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark border">
     	<td>Orbital Clearing</td>
     	<td class="metal">[!Orbital_Clearing:CONDITION:Metal!]</td>
     	<td class="mineral">[!Orbital_Clearing:CONDITION:Mineral!]</td>
@@ -668,7 +668,7 @@
     	<td>[!Orbital_Clearing:DEMOLISH:0!]</td>
 		<td>[!Orbital_Clearing:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light border">
     	<td>Heavy Weapons Factory</td>
     	<td class="metal">[!Heavy_Weapons_Factory:CONDITION:Metal!]</td>
     	<td class="mineral">[!Heavy_Weapons_Factory:CONDITION:Mineral!]</td>
@@ -683,7 +683,7 @@
     	<td>[!Heavy_Weapons_Factory:DEMOLISH:0!]</td>
 		<td>[!Heavy_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="dark border">
     	<td>Space Dock</td>
     	<td class="metal">[!Space_Dock:CONDITION:Metal!]</td>
     	<td class="mineral">[!Space_Dock:CONDITION:Mineral!]</td>
@@ -698,7 +698,7 @@
     	<td>[!Space_Dock:DEMOLISH:0!]</td>
 		<td>[!Space_Dock:SCORE:Asset!]</td>
     </tr>
-	<tr>
+	<tr class="light border">
     	<td>Jump Gate</td>
     	<td class="metal">[!Jump_Gate:CONDITION:Metal!]</td>
     	<td class="mineral">[!Jump_Gate:CONDITION:Mineral!]</td>
