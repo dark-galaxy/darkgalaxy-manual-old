@@ -1,6 +1,8 @@
 1. [Introduction](/content/index.md)
 2. [Getting started](/content/getting-started.md)
     1. [Core concepts](/content/getting-started/core-concepts.md)
+		- [The Universe](/content/getting-started/core-concepts/the-universe.md)
+		- [Planet Resources](/content/getting-started/core-concepts/planet-resources.md)
     2. [Objectives](/content/getting-started/objectives.md)
     3. [Resources & economy](/content/getting-started/resources-and-economy.md)
     4. [Colonisation](/content/getting-started/colonisation.md)
