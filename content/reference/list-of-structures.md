@@ -48,7 +48,7 @@
     </tr>
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>[!Metal_Mine:UPKEEP:Metal!]</td>
+		<td class="metal">[!Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -79,7 +79,7 @@
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
-		<td>[!Mineral_Extractor:UPKEEP:Mineral!]</td>
+		<td class="Mineral">[!Mineral_Extractor:UPKEEP:Mineral!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -111,9 +111,9 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
-		<td>[!Farm:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
+		<td class="population">[!Farm:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -246,7 +246,7 @@
     </tr>
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>[!Core_Metal_Mine:UPKEEP:Metal!]</td>
+		<td class="metal">[!Core_Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -277,7 +277,7 @@
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
-		<td>[!Core_Mineral_Extractor:UPKEEP:Mineral!]</td>
+		<td class="mineral">[!Core_Mineral_Extractor:UPKEEP:Mineral!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -309,9 +309,9 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
-		<td>[!Leisure_Centre:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
+		<td class="population">[!Leisure_Centre:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -339,9 +339,9 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
 		<td class="population">[!Hydroponics_Lab:UPKEEP:Worker!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -474,7 +474,7 @@
     </tr>
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>[!Strip_Metal_Mine:UPKEEP:Metal!]</td>
+		<td class="metal">[!Strip_Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -505,7 +505,7 @@
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
-		<td>[!Strip_Mineral_Extractor:UPKEEP:Mineral!]</td>
+		<td class="mineral">[!Strip_Mineral_Extractor:UPKEEP:Mineral!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -537,9 +537,9 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
-		<td>[!Hydroponics_Dome:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
+		<td class="population">[!Hydroponics_Dome:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -582,9 +582,9 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
-		<td>[!Hospital:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
+		<td class="population">[!Hospital:UPKEEP:Worker!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
