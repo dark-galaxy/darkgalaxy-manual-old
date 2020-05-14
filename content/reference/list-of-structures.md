@@ -167,6 +167,9 @@
     	<td>[!Living_Quarters:DEMOLISH:0!]</td>
 		<td>[!Living_Quarters:SCORE:Asset!]</td>
     </tr>
+	<tr class="light">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Living Quarters provides housing for an additional [!Living_Quarters:STORAGE:Worker!] <span class="population">workers</span> on a planet.</td>
 	<tr class="dark border">
     	<td>Launch_Site</td>
     	<td class="metal">[!Launch_Site:CONDITION:Metal!]</td>
