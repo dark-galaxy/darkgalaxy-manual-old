@@ -1,5 +1,3 @@
-# Resources
-
 <table>
     <thead>
         <tr><td colspan="7">Types of resources</td></tr>

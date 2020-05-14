@@ -1,5 +1,3 @@
-# Colonists
-
 <table>
     <thead>
         <tr><td colspan="7">Types of colonist</td></tr>

@@ -1,5 +1,3 @@
-# Combat
-
 Once you have colonised some planets you will need something to do with the resources you generate.
 
 The suggested path is to use your resources to build combat ships and soldiers. Combat ships will enable you to attack other players and defend yourself as well as your allies. Soldiers are best used for invading hostile players before they invade you.
