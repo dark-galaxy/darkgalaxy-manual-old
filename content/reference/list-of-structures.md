@@ -79,7 +79,7 @@
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp</td>
-		<td class="Mineral">[!Mineral_Extractor:UPKEEP:Mineral!]</td>
+		<td class="mineral">[!Mineral_Extractor:UPKEEP:Mineral!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
