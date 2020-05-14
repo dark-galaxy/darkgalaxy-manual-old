@@ -14,7 +14,7 @@
     </thead>
     <tbody>
 		<tr>
-			<td>Fighter</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/fighter.gif" alt="Fighter" /> Fighter</td>
 			<td class="metal">[!Fighter:CONDITION:Metal!]</td>
 			<td class="mineral">[!Fighter:CONDITION:Mineral!]</td>
 			<td class="energy">[!Fighter:CONDITION:Energy!]</td>
@@ -24,7 +24,7 @@
 			<td>[!Fighter:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Bomber</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/bomber.gif" alt="Bomber" /> Bomber</td>
 			<td class="metal">[!Bomber:CONDITION:Metal!]</td>
 			<td class="mineral">[!Bomber:CONDITION:Mineral!]</td>
 			<td class="energy">[!Bomber:CONDITION:Energy!]</td>
@@ -34,7 +34,7 @@
 			<td>[!Bomber:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Frigate</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/frigate.gif" alt="Frigate" /> Frigate</td>
 			<td class="metal">[!Frigate:CONDITION:Metal!]</td>
 			<td class="mineral">[!Frigate:CONDITION:Mineral!]</td>
 			<td class="energy">[!Frigate:CONDITION:Energy!]</td>
@@ -44,7 +44,7 @@
 			<td>[!Frigate:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Destroyer</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/destroyer.gif" alt="Destroyer" /> Destroyer</td>
 			<td class="metal">[!Destroyer:CONDITION:Metal!]</td>
 			<td class="mineral">[!Destroyer:CONDITION:Mineral!]</td>
 			<td class="energy">[!Destroyer:CONDITION:Energy!]</td>
@@ -54,7 +54,7 @@
 			<td>[!Destroyer:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Cruiser</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/cruiser.gif" alt="Cruiser" /> Cruiser</td>
 			<td class="metal">[!Cruiser:CONDITION:Metal!]</td>
 			<td class="mineral">[!Cruiser:CONDITION:Mineral!]</td>
 			<td class="energy">[!Cruiser:CONDITION:Energy!]</td>
@@ -64,7 +64,7 @@
 			<td>[!Cruiser:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Battleship</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/battleship.gif" alt="Battleship" /> Battleship</td>
 			<td class="metal">[!Battleship:CONDITION:Metal!]</td>
 			<td class="mineral">[!Battleship:CONDITION:Mineral!]</td>
 			<td class="energy">[!Battleship:CONDITION:Energy!]</td>
@@ -74,7 +74,7 @@
 			<td>[!Battleship:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Outpost_Ship</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/outpost_ship.gif" alt="Outpost_Ship" /> Outpost_Ship</td>
 			<td class="metal">[!Outpost_Ship:CONDITION:Metal!]</td>
 			<td class="mineral">[!Outpost_Ship:CONDITION:Mineral!]</td>
 			<td class="energy">[!Outpost_Ship:CONDITION:Energy!]</td>
@@ -84,7 +84,7 @@
 			<td>[!Outpost_Ship:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Invasion_Ship</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/invasion_ship.gif" alt="Invasion_Ship" /> Invasion_Ship</td>
 			<td class="metal">[!Invasion_Ship:CONDITION:Metal!]</td>
 			<td class="mineral">[!Invasion_Ship:CONDITION:Mineral!]</td>
 			<td class="energy">[!Invasion_Ship:CONDITION:Energy!]</td>
@@ -94,7 +94,7 @@
 			<td>[!Invasion_Ship:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Freighter</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/freighter.gif" alt="Freighter" /> Freighter</td>
 			<td class="metal">[!Freighter:CONDITION:Metal!]</td>
 			<td class="mineral">[!Freighter:CONDITION:Mineral!]</td>
 			<td class="energy">[!Freighter:CONDITION:Energy!]</td>
@@ -104,7 +104,7 @@
 			<td>[!Freighter:SCORE:Asset!]</td>
 		</tr>
 		<tr>
-			<td>Trader</td>
+			<td><img src="https://beta.darkgalaxy.com/images/units/small/trader.gif" alt="Trader" /> Trader</td>
 			<td class="metal">[!Trader:CONDITION:Metal!]</td>
 			<td class="mineral">[!Trader:CONDITION:Mineral!]</td>
 			<td class="energy">[!Trader:CONDITION:Energy!]</td>
