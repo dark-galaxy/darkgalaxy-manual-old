@@ -47,7 +47,7 @@
 		<td>[!Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
-		<td style="font-weight: normal; text-align: right; font-decoration: italic">Output:</td>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>[!Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
 		<td>&nbsp</td>
@@ -77,6 +77,21 @@
 		<td>[!Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>[!Mineral_Extractor:UPKEEP:Mineral!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
+	<tr>
     	<td>Farm</td>
     	<td class="metal">[!Farm:CONDITION:Metal!]</td>
     	<td class="mineral">[!Farm:CONDITION:Mineral!]</td>
@@ -91,6 +106,21 @@
     	<td>[!Farm:DEMOLISH:0!]</td>
 		<td>[!Farm:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>[!Farm:UPKEEP:Worker!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
 	<tr>
     	<td>Solar_Generator</td>
     	<td class="metal">[!Solar_Generator:CONDITION:Metal!]</td>
@@ -215,6 +245,21 @@
 		<td>[!Core_Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>[!Core_Metal_Mine:UPKEEP:Metal!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
+	<tr>
     	<td>Core_Mineral_Extractor</td>
     	<td class="metal">[!Core_Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Core_Mineral_Extractor:CONDITION:Mineral!]</td>
@@ -229,6 +274,21 @@
     	<td>[!Core_Mineral_Extractor:DEMOLISH:0!]</td>
 		<td>[!Core_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>[!Core_Mineral_Extractor:UPKEEP:Mineral!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
 	<tr>
     	<td>Leisure_Centre</td>
     	<td class="metal">[!Leisure_Centre:CONDITION:Metal!]</td>
@@ -245,6 +305,21 @@
 		<td>[!Leisure_Centre:SCORE:Asset!]</td>
     </tr>
 	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>[!Leisure_Centre:UPKEEP:Worker!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
+	<tr>
     	<td>Hydroponics_Lab</td>
     	<td class="metal">[!Hydroponics_Lab:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hydroponics_Lab:CONDITION:Mineral!]</td>
@@ -259,6 +334,21 @@
     	<td>[!Hydroponics_Lab:DEMOLISH:0!]</td>
 		<td>[!Hydroponics_Lab:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td class="population">[!Hydroponics_Lab:UPKEEP:Worker!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
 	<tr>
     	<td>Solar_Array</td>
     	<td class="metal">[!Solar_Array:CONDITION:Metal!]</td>
@@ -383,6 +473,21 @@
 		<td>[!Strip_Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>[!Strip_Metal_Mine:UPKEEP:Metal!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
+	<tr>
     	<td>Strip_Mineral_Extractor</td>
     	<td class="metal">[!Strip_Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Strip_Mineral_Extractor:CONDITION:Mineral!]</td>
@@ -398,6 +503,21 @@
 		<td>[!Strip_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>[!Strip_Mineral_Extractor:UPKEEP:Mineral!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
+	<tr>
     	<td>Hydroponics_Dome</td>
     	<td class="metal">[!Hydroponics_Dome:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hydroponics_Dome:CONDITION:Mineral!]</td>
@@ -412,6 +532,21 @@
     	<td>[!Hydroponics_Dome:DEMOLISH:0!]</td>
 		<td>[!Hydroponics_Dome:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>[!Hydroponics_Dome:UPKEEP:Worker!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
 	<tr>
     	<td>Solar_Station</td>
     	<td class="metal">[!Solar_Station:CONDITION:Metal!]</td>
@@ -442,6 +577,21 @@
     	<td>[!Hospital:DEMOLISH:0!]</td>
 		<td>[!Hospital:SCORE:Asset!]</td>
     </tr>
+	<tr>
+		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>[!Hospital:UPKEEP:Worker!]</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+		<td>&nbsp</td>
+	</tr>
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
 	<tr>
     	<td>Land_Reclamation</td>
