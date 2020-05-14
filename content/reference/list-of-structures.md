@@ -169,7 +169,8 @@
     </tr>
 	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
-		<td colspan="12">The Living Quarters provides housing for an additional [!Living_Quarters:STORAGE:Worker!] <span class="population">workers</span> on a planet.</td>
+		<td colspan="12">The Living Quarters provides ground-based housing for [!Living_Quarters:STORAGE:Worker!] <span class="population">Workers</span>.</td>
+	</tr>
 	<tr class="dark border">
     	<td>Launch_Site</td>
     	<td class="metal">[!Launch_Site:CONDITION:Metal!]</td>
@@ -185,6 +186,10 @@
     	<td>[!Launch_Site:DEMOLISH:0!]</td>
 		<td>[!Launch_Site:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Launch Site provides a base for launching orbital structures.</td>
+	</tr>
 	<tr class="light border">
     	<td>Ship Yard</td>
     	<td class="metal">[!Ship_Yard:CONDITION:Metal!]</td>
@@ -200,6 +205,10 @@
     	<td>[!Ship_Yard:DEMOLISH:0!]</td>
 		<td>[!Ship_Yard:SCORE:Asset!]</td>
     </tr>
+	<tr class="light">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Ship Yard provides access to ships, and allows immediate building of Outpost Ships, Invasion Ships, and Freighters</td>
+	</tr>
 	<tr class="dark border">
     	<td>Comms Satellite</td>
     	<td class="metal">[!Comms_Satellite:CONDITION:Metal!]</td>
@@ -215,6 +224,10 @@
     	<td>[!Comms_Satellite:DEMOLISH:0!]</td>
 		<td>[!Comms_Satellite:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Communications Satellite provides you with system-wide radar, and allows you to perform scans of fleets and planets.</td>
+	</tr>
 	<tr class="light border">
     	<td>Habitat</td>
     	<td class="metal">[!Habitat:CONDITION:Metal!]</td>
@@ -230,6 +243,10 @@
     	<td>[!Habitat:DEMOLISH:0!]</td>
 		<td>[!Habitat:SCORE:Asset!]</td>
     </tr>
+	<tr class="light">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Habitat provides orbital housing for [!Habitat:STORAGE:Worker!] <span class="population">Workers</span>.</td>
+	</tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 2</td></tr>
 	<tr class="dark border">
     	<td>Colony</td>
@@ -413,6 +430,10 @@
     	<td>[!Resource_Converter:DEMOLISH:0!]</td>
 		<td>[!Resource_Converter:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The resource converter allows you to convert <span class="metal">Metal</span> and <span class="mineral">Mineral</span> to <span class="energy">Energy</span>, and back again.</td>
+	</tr>
 	<tr class="light border">
     	<td>Light Weapons Factory</td>
     	<td class="metal">[!Light_Weapons_Factory:CONDITION:Metal!]</td>
@@ -428,6 +449,10 @@
     	<td>[!Light_Weapons_Factory:DEMOLISH:0!]</td>
 		<td>[!Light_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
+	<tr class="light">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The light weapons factory provides the ability to build Fighters, Bombers and Frigates from a Ship Yard, Cruisers from a Space Dock, and Soliders from an Army Barracks</td>
+	</tr>
 	<tr class="dark border">
     	<td>Army Barracks</td>
     	<td class="metal">[!Army_Barracks:CONDITION:Metal!]</td>
@@ -443,6 +468,10 @@
     	<td>[!Army_Barracks:DEMOLISH:0!]</td>
 		<td>[!Army_Barracks:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Army Barracks allows the training of Soldiers. Each Barracks also provides accomodations for [!Army_Barracks:STORAGE:Soldier!] Soldiers.</td>
+	</tr>
 	<tr class="light border">
     	<td>Hyperspace Beacon</td>
     	<td class="metal">[!Hyperspace_Beacon:CONDITION:Metal!]</td>
@@ -458,6 +487,10 @@
     	<td>[!Hyperspace_Beacon:DEMOLISH:0!]</td>
 		<td>[!Hyperspace_Beacon:SCORE:Asset!]</td>
     </tr>
+	<tr class="light">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">When moving your fleets towards planets with a Hyperspace Beacon, travel time is reduced by 25%</td>
+	</tr>
 	<tr class="dark border">
     	<td>Holo Generator</td>
     	<td class="metal">[!Holo_Generator:CONDITION:Metal!]</td>
@@ -473,6 +506,10 @@
     	<td>[!Holo_Generator:DEMOLISH:0!]</td>
 		<td>[!Holo_Generator:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Holo Generator allows the construction of Holographic Decoy Ships</td>
+	</tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 3</td></tr>
 	<tr class="light border">
     	<td>Metropolis</td>
@@ -656,6 +693,10 @@
     	<td>[!Land_Reclamation:DEMOLISH:0!]</td>
 		<td>[!Land_Reclamation:SCORE:Asset!]</td>
     </tr>
+	<tr class="light">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">Land Reclamation will add 1 Ground space to a planet.</td>
+	</tr>
 	<tr class="dark border">
     	<td>Orbital Clearing</td>
     	<td class="metal">[!Orbital_Clearing:CONDITION:Metal!]</td>
@@ -671,6 +712,10 @@
     	<td>[!Orbital_Clearing:DEMOLISH:0!]</td>
 		<td>[!Orbital_Clearing:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">Orbital Clearing will add 1 Orbit space to a planet.</td>
+	</tr>
 	<tr class="light border">
     	<td>Heavy Weapons Factory</td>
     	<td class="metal">[!Heavy_Weapons_Factory:CONDITION:Metal!]</td>
@@ -686,6 +731,10 @@
     	<td>[!Heavy_Weapons_Factory:DEMOLISH:0!]</td>
 		<td>[!Heavy_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
+	<tr class="light">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Heavy Weapons factory allows a Ship Yard to build Destroyers, and a Space Dock to build Battleships.</td>
+	</tr>
 	<tr class="dark border">
     	<td>Space Dock</td>
     	<td class="metal">[!Space_Dock:CONDITION:Metal!]</td>
@@ -701,6 +750,10 @@
     	<td>[!Space_Dock:DEMOLISH:0!]</td>
 		<td>[!Space_Dock:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">The Space Dock can be used to produce Cruisers, Battleships and Traders.</td>
+	</tr>
 	<tr class="light border">
     	<td>Jump Gate</td>
     	<td class="metal">[!Jump_Gate:CONDITION:Metal!]</td>
@@ -716,4 +769,8 @@
     	<td>[!Jump_Gate:DEMOLISH:0!]</td>
 		<td>[!Jump_Gate:SCORE:Asset!]</td>
     </tr>
+	<tr class="dark">
+		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
+		<td colspan="12">With a friendly Jump Gate at the origin and destination, alliance fleet movements are reduced by 25%</td>
+	</tr>
 </table>
