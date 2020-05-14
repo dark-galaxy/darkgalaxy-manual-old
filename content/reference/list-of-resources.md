@@ -11,32 +11,32 @@
     </thead>
     <tbody>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/units/small/metal.gif" alt="Metal" /> <a href="#metal">Metal</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/units/small/metal.gif" alt="Metal" /> <a href="#metal">Metal</a></td>
             <td>Basic resource</td>
             <td>Unknown</td>
         </tr>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/units/small/mineral.gif" alt="Mineral" /> <a href="#mineral">Mineral</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/units/small/mineral.gif" alt="Mineral" /> <a href="#mineral">Mineral</a></td>
             <td>Basic resource</td>
             <td>Unknown</td>
         </tr>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/units/small/energy.gif" alt="Energy" /> <a href="#energy">Energy</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/units/small/energy.gif" alt="Energy" /> <a href="#energy">Energy</a></td>
             <td>Basic resource</td>
             <td>Unknown</td>
         </tr>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/units/small/ground.gif" alt="Ground space" /> <a href="#ground-space">Ground space</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/units/small/ground.gif" alt="Ground space" /> <a href="#ground-space">Ground space</a></td>
             <td>Finite resource</td>
             <td>n/a</td>
         </tr>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/units/small/orbit.gif" alt="Orbital space" /> <a href="#orbital-space">Orbital space</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/units/small/orbit.gif" alt="Orbital space" /> <a href="#orbital-space">Orbital space</a></td>
             <td>Finite resource</td>
             <td>n/a</td>
         </tr>
         <tr>
-            <th><img src="https://beta.darkgalaxy.com/images/icons/research_small.png" alt="Research points" /> <a href="#research-points">Research points</a></th>
+            <td><img src="https://beta.darkgalaxy.com/images/icons/research_small.png" alt="Research points" /> <a href="#research-points">Research points</a></td>
             <td>Research</td>
             <td>n/a</td>
         </tr>
