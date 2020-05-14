@@ -15,11 +15,13 @@
     <tbody>
 		<tr>
 			<td>Fighter</td>
-			<td>[!Ship:Fighter:CONDITION:Metal!]</td>
-			<td>[!Ship:Fighter:CONDITION:Mineral!]</td>
-			<td>[!Ship:Fighter:CONDITION:Energy!]</td>
-			<td>[!Ship:Fighter:CONDITION:Worker!]</td>
-			<td>[!Ship:Fighter:CREATE:Turns!]</td>
+			<td>[!Fighter:CONDITION:Metal!]</td>
+			<td>[!Fighter:CONDITION:Mineral!]</td>
+			<td>[!Fighter:CONDITION:Energy!]</td>
+			<td>[!Fighter:CONDITION:Worker!]</td>
+			<td>[!Fighter:CREATE:Turns!]</td>
+			<td>[!Fighter:REQUIREMENTS:0!]</td>
+			<td>[!Fighter:Score:Asset!]</td>
 		</tr>
     </tbody>
 </table>
