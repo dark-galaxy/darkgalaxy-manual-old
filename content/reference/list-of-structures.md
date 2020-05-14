@@ -1,5 +1,5 @@
 <table>
-    <tr><td colspan="11">Standard Buildings</td></tr>
+    <tr><td colspan="12">Standard Buildings</td></tr>
     <tr>
     	<th>Name</td>
     	<th><img src="/assets/resources/metal.gif" alt="Metal" /></th>
@@ -11,7 +11,9 @@
     	<th><img src="/assets/resources/turns.gif" alt="Turns" /></th>
     	<th>Requirements</th>
     	<th>Research</th>
+		<th>Unique</th>
     	<th>Demolish</th>
+		<th>Score</th>
     </tr>
 	<tr>
     	<td>Outpost</td>
@@ -24,9 +26,11 @@
     	<td>[!Outpost:CREATE:Turns!]</td>
     	<td>[!Outpost:REQUIREMENTS:0!]</td>
     	<td>[!Outpost:RESEARCH:0!]</td>
+		<td>[!Outpost:UNIQUE:0!]</td>
     	<td>[!Outpost:DEMOLISH:0!]</td>
+		<td>[!Outpost:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
 	<tr>
     	<td>Metal_Mine</td>
     	<td class="metal">[!Metal_Mine:CONDITION:Metal!]</td>
@@ -38,7 +42,9 @@
     	<td>[!Metal_Mine:CREATE:Turns!]</td>
     	<td>[!Metal_Mine:REQUIREMENTS:0!]</td>
     	<td>[!Metal_Mine:RESEARCH:0!]</td>
+		<td>[!Metal_Mine:UNIQUE:0!]</td>
     	<td>[!Metal_Mine:DEMOLISH:0!]</td>
+		<td>[!Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Mineral_Extractor</td>
@@ -51,7 +57,9 @@
     	<td>[!Mineral_Extractor:CREATE:Turns!]</td>
     	<td>[!Mineral_Extractor:REQUIREMENTS:0!]</td>
     	<td>[!Mineral_Extractor:RESEARCH:0!]</td>
+		<td>[!Mineral_Extractor:UNIQUE:0!]</td>
     	<td>[!Mineral_Extractor:DEMOLISH:0!]</td>
+		<td>[!Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Farm</td>
@@ -64,7 +72,9 @@
     	<td>[!Farm:CREATE:Turns!]</td>
     	<td>[!Farm:REQUIREMENTS:0!]</td>
     	<td>[!Farm:RESEARCH:0!]</td>
+		<td>[!Farm:UNIQUE:0!]</td>
     	<td>[!Farm:DEMOLISH:0!]</td>
+		<td>[!Farm:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Solar_Generator</td>
@@ -77,10 +87,11 @@
     	<td>[!Solar_Generator:CREATE:Turns!]</td>
     	<td>[!Solar_Generator:REQUIREMENTS:0!]</td>
     	<td>[!Solar_Generator:RESEARCH:0!]</td>
+		<td>[!Solar_Generator:UNIQUE:0!]</td>
     	<td>[!Solar_Generator:DEMOLISH:0!]</td>
+		<td>[!Solar_Generator:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
-	<tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
 	<tr>
     	<td>Living_Quarters</td>
     	<td class="metal">[!Living_Quarters:CONDITION:Metal!]</td>
@@ -92,7 +103,9 @@
     	<td>[!Living_Quarters:CREATE:Turns!]</td>
     	<td>[!Living_Quarters:REQUIREMENTS:0!]</td>
     	<td>[!Living_Quarters:RESEARCH:0!]</td>
+		<td>[!Living_Quarters:UNIQUE:0!]</td>
     	<td>[!Living_Quarters:DEMOLISH:0!]</td>
+		<td>[!Living_Quarters:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Launch_Site</td>
@@ -105,7 +118,9 @@
     	<td>[!Launch_Site:CREATE:Turns!]</td>
     	<td>[!Launch_Site:REQUIREMENTS:0!]</td>
     	<td>[!Launch_Site:RESEARCH:0!]</td>
+		<td>[!Launch_Site:UNIQUE:0!]</td>
     	<td>[!Launch_Site:DEMOLISH:0!]</td>
+		<td>[!Launch_Site:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Ship_Yard</td>
@@ -118,7 +133,9 @@
     	<td>[!Ship_Yard:CREATE:Turns!]</td>
     	<td>[!Ship_Yard:REQUIREMENTS:0!]</td>
     	<td>[!Ship_Yard:RESEARCH:0!]</td>
+		<td>[!Ship_Yard:UNIQUE:0!]</td>
     	<td>[!Ship_Yard:DEMOLISH:0!]</td>
+		<td>[!Ship_Yard:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Comms_Satellite</td>
@@ -131,7 +148,9 @@
     	<td>[!Comms_Satellite:CREATE:Turns!]</td>
     	<td>[!Comms_Satellite:REQUIREMENTS:0!]</td>
     	<td>[!Comms_Satellite:RESEARCH:0!]</td>
+		<td>[!Comms_Satellite:UNIQUE:0!]</td>
     	<td>[!Comms_Satellite:DEMOLISH:0!]</td>
+		<td>[!Comms_Satellite:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Habitat</td>
@@ -144,9 +163,11 @@
     	<td>[!Habitat:CREATE:Turns!]</td>
     	<td>[!Habitat:REQUIREMENTS:0!]</td>
     	<td>[!Habitat:RESEARCH:0!]</td>
+		<td>[!Habitat:UNIQUE:0!]</td>
     	<td>[!Habitat:DEMOLISH:0!]</td>
+		<td>[!Habitat:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 2</td></tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 2</td></tr>
 	<tr>
     	<td>Colony</td>
     	<td class="metal">[!Colony:CONDITION:Metal!]</td>
@@ -158,9 +179,11 @@
     	<td>[!Colony:CREATE:Turns!]</td>
     	<td>[!Colony:REQUIREMENTS:0!]</td>
     	<td>[!Colony:RESEARCH:0!]</td>
+		<td>[!Colony:UNIQUE:0!]</td>
     	<td>[!Colony:DEMOLISH:0!]</td>
+		<td>[!Colony:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
 	<tr>
     	<td>Core_Metal_Mine</td>
     	<td class="metal">[!Core_Metal_Mine:CONDITION:Metal!]</td>
@@ -172,7 +195,9 @@
     	<td>[!Core_Metal_Mine:CREATE:Turns!]</td>
     	<td>[!Core_Metal_Mine:REQUIREMENTS:0!]</td>
     	<td>[!Core_Metal_Mine:RESEARCH:0!]</td>
+		<td>[!Core_Metal_Mine:UNIQUE:0!]</td>
     	<td>[!Core_Metal_Mine:DEMOLISH:0!]</td>
+		<td>[!Core_Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Core_Mineral_Extractor</td>
@@ -185,20 +210,9 @@
     	<td>[!Core_Mineral_Extractor:CREATE:Turns!]</td>
     	<td>[!Core_Mineral_Extractor:REQUIREMENTS:0!]</td>
     	<td>[!Core_Mineral_Extractor:RESEARCH:0!]</td>
+		<td>[!Core_Mineral_Extractor:UNIQUE:0!]</td>
     	<td>[!Core_Mineral_Extractor:DEMOLISH:0!]</td>
-    </tr>
-	<tr>
-    	<td>Hydroponics_Lab</td>
-    	<td class="metal">[!Hydroponics_Lab:CONDITION:Metal!]</td>
-    	<td class="mineral">[!Hydroponics_Lab:CONDITION:Mineral!]</td>
-        <td class="energy">[!Hydroponics_Lab:CONDITION:Energy!]</td>
-        <td>[!Hydroponics_Lab:CONDITION:Ground!]</td>
-        <td>[!Hydroponics_Lab:CONDITION:Orbit!]</td>
-    	<td class="population">[!Hydroponics_Lab:CONDITION:Worker!]</td>
-    	<td>[!Hydroponics_Lab:CREATE:Turns!]</td>
-    	<td>[!Hydroponics_Lab:REQUIREMENTS:0!]</td>
-    	<td>[!Hydroponics_Lab:RESEARCH:0!]</td>
-    	<td>[!Hydroponics_Lab:DEMOLISH:0!]</td>
+		<td>[!Core_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Leisure_Centre</td>
@@ -211,7 +225,24 @@
     	<td>[!Leisure_Centre:CREATE:Turns!]</td>
     	<td>[!Leisure_Centre:REQUIREMENTS:0!]</td>
     	<td>[!Leisure_Centre:RESEARCH:0!]</td>
+		<td>[!Leisure_Centre:UNIQUE:0!]</td>
     	<td>[!Leisure_Centre:DEMOLISH:0!]</td>
+		<td>[!Leisure_Centre:SCORE:Asset!]</td>
+    </tr>
+	<tr>
+    	<td>Hydroponics_Lab</td>
+    	<td class="metal">[!Hydroponics_Lab:CONDITION:Metal!]</td>
+    	<td class="mineral">[!Hydroponics_Lab:CONDITION:Mineral!]</td>
+        <td class="energy">[!Hydroponics_Lab:CONDITION:Energy!]</td>
+        <td>[!Hydroponics_Lab:CONDITION:Ground!]</td>
+        <td>[!Hydroponics_Lab:CONDITION:Orbit!]</td>
+    	<td class="population">[!Hydroponics_Lab:CONDITION:Worker!]</td>
+    	<td>[!Hydroponics_Lab:CREATE:Turns!]</td>
+    	<td>[!Hydroponics_Lab:REQUIREMENTS:0!]</td>
+    	<td>[!Hydroponics_Lab:RESEARCH:0!]</td>
+		<td>[!Hydroponics_Lab:UNIQUE:0!]</td>
+    	<td>[!Hydroponics_Lab:DEMOLISH:0!]</td>
+		<td>[!Hydroponics_Lab:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Solar_Array</td>
@@ -224,9 +255,11 @@
     	<td>[!Solar_Array:CREATE:Turns!]</td>
     	<td>[!Solar_Array:REQUIREMENTS:0!]</td>
     	<td>[!Solar_Array:RESEARCH:0!]</td>
+		<td>[!Solar_Array:UNIQUE:0!]</td>
     	<td>[!Solar_Array:DEMOLISH:0!]</td>
+		<td>[!Solar_Array:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
 	<tr>
     	<td>Resource_Converter</td>
     	<td class="metal">[!Resource_Converter:CONDITION:Metal!]</td>
@@ -238,7 +271,9 @@
     	<td>[!Resource_Converter:CREATE:Turns!]</td>
     	<td>[!Resource_Converter:REQUIREMENTS:0!]</td>
     	<td>[!Resource_Converter:RESEARCH:0!]</td>
+		<td>[!Resource_Converter:UNIQUE:0!]</td>
     	<td>[!Resource_Converter:DEMOLISH:0!]</td>
+		<td>[!Resource_Converter:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Light_Weapons_Factory</td>
@@ -251,7 +286,9 @@
     	<td>[!Light_Weapons_Factory:CREATE:Turns!]</td>
     	<td>[!Light_Weapons_Factory:REQUIREMENTS:0!]</td>
     	<td>[!Light_Weapons_Factory:RESEARCH:0!]</td>
+		<td>[!Light_Weapons_Factory:UNIQUE:0!]</td>
     	<td>[!Light_Weapons_Factory:DEMOLISH:0!]</td>
+		<td>[!Light_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Army_Barracks</td>
@@ -264,7 +301,9 @@
     	<td>[!Army_Barracks:CREATE:Turns!]</td>
     	<td>[!Army_Barracks:REQUIREMENTS:0!]</td>
     	<td>[!Army_Barracks:RESEARCH:0!]</td>
+		<td>[!Army_Barracks:UNIQUE:0!]</td>
     	<td>[!Army_Barracks:DEMOLISH:0!]</td>
+		<td>[!Army_Barracks:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Hyperspace_Beacon</td>
@@ -277,7 +316,9 @@
     	<td>[!Hyperspace_Beacon:CREATE:Turns!]</td>
     	<td>[!Hyperspace_Beacon:REQUIREMENTS:0!]</td>
     	<td>[!Hyperspace_Beacon:RESEARCH:0!]</td>
+		<td>[!Hyperspace_Beacon:UNIQUE:0!]</td>
     	<td>[!Hyperspace_Beacon:DEMOLISH:0!]</td>
+		<td>[!Hyperspace_Beacon:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Holo_Generator</td>
@@ -290,9 +331,11 @@
     	<td>[!Holo_Generator:CREATE:Turns!]</td>
     	<td>[!Holo_Generator:REQUIREMENTS:0!]</td>
     	<td>[!Holo_Generator:RESEARCH:0!]</td>
+		<td>[!Holo_Generator:UNIQUE:0!]</td>
     	<td>[!Holo_Generator:DEMOLISH:0!]</td>
+		<td>[!Holo_Generator:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 3</td></tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 3</td></tr>
 	<tr>
     	<td>Metropolis</td>
     	<td class="metal">[!Metropolis:CONDITION:Metal!]</td>
@@ -304,9 +347,11 @@
     	<td>[!Metropolis:CREATE:Turns!]</td>
     	<td>[!Metropolis:REQUIREMENTS:0!]</td>
     	<td>[!Metropolis:RESEARCH:0!]</td>
+		<td>[!Metropolis:UNIQUE:0!]</td>
     	<td>[!Metropolis:DEMOLISH:0!]</td>
+		<td>[!Metropolis:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
 	<tr>
     	<td>Strip_Metal_Mine</td>
     	<td class="metal">[!Strip_Metal_Mine:CONDITION:Metal!]</td>
@@ -318,7 +363,9 @@
     	<td>[!Strip_Metal_Mine:CREATE:Turns!]</td>
     	<td>[!Strip_Metal_Mine:REQUIREMENTS:0!]</td>
     	<td>[!Strip_Metal_Mine:RESEARCH:0!]</td>
+		<td>[!Strip_Metal_Mine:UNIQUE:0!]</td>
     	<td>[!Strip_Metal_Mine:DEMOLISH:0!]</td>
+		<td>[!Strip_Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Strip_Mineral_Extractor</td>
@@ -331,7 +378,9 @@
     	<td>[!Strip_Mineral_Extractor:CREATE:Turns!]</td>
     	<td>[!Strip_Mineral_Extractor:REQUIREMENTS:0!]</td>
     	<td>[!Strip_Mineral_Extractor:RESEARCH:0!]</td>
+		<td>[!Strip_Mineral_Extractor:UNIQUE:0!]</td>
     	<td>[!Strip_Mineral_Extractor:DEMOLISH:0!]</td>
+		<td>[!Strip_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Hydroponics_Dome</td>
@@ -344,20 +393,9 @@
     	<td>[!Hydroponics_Dome:CREATE:Turns!]</td>
     	<td>[!Hydroponics_Dome:REQUIREMENTS:0!]</td>
     	<td>[!Hydroponics_Dome:RESEARCH:0!]</td>
+		<td>[!Hydroponics_Dome:UNIQUE:0!]</td>
     	<td>[!Hydroponics_Dome:DEMOLISH:0!]</td>
-    </tr>
-	<tr>
-    	<td>Hospital</td>
-    	<td class="metal">[!Hospital:CONDITION:Metal!]</td>
-    	<td class="mineral">[!Hospital:CONDITION:Mineral!]</td>
-        <td class="energy">[!Hospital:CONDITION:Energy!]</td>
-        <td>[!Hospital:CONDITION:Ground!]</td>
-        <td>[!Hospital:CONDITION:Orbit!]</td>
-    	<td class="population">[!Hospital:CONDITION:Worker!]</td>
-    	<td>[!Hospital:CREATE:Turns!]</td>
-    	<td>[!Hospital:REQUIREMENTS:0!]</td>
-    	<td>[!Hospital:RESEARCH:0!]</td>
-    	<td>[!Hospital:DEMOLISH:0!]</td>
+		<td>[!Hydroponics_Dome:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Solar_Station</td>
@@ -370,22 +408,26 @@
     	<td>[!Solar_Station:CREATE:Turns!]</td>
     	<td>[!Solar_Station:REQUIREMENTS:0!]</td>
     	<td>[!Solar_Station:RESEARCH:0!]</td>
+		<td>[!Solar_Station:UNIQUE:0!]</td>
     	<td>[!Solar_Station:DEMOLISH:0!]</td>
+		<td>[!Solar_Station:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="11" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
 	<tr>
-    	<td>Space_Dock</td>
-    	<td class="metal">[!Space_Dock:CONDITION:Metal!]</td>
-    	<td class="mineral">[!Space_Dock:CONDITION:Mineral!]</td>
-        <td class="energy">[!Space_Dock:CONDITION:Energy!]</td>
-        <td>[!Space_Dock:CONDITION:Ground!]</td>
-        <td>[!Space_Dock:CONDITION:Orbit!]</td>
-    	<td class="population">[!Space_Dock:CONDITION:Worker!]</td>
-    	<td>[!Space_Dock:CREATE:Turns!]</td>
-    	<td>[!Space_Dock:REQUIREMENTS:0!]</td>
-    	<td>[!Space_Dock:RESEARCH:0!]</td>
-    	<td>[!Space_Dock:DEMOLISH:0!]</td>
+    	<td>Hospital</td>
+    	<td class="metal">[!Hospital:CONDITION:Metal!]</td>
+    	<td class="mineral">[!Hospital:CONDITION:Mineral!]</td>
+        <td class="energy">[!Hospital:CONDITION:Energy!]</td>
+        <td>[!Hospital:CONDITION:Ground!]</td>
+        <td>[!Hospital:CONDITION:Orbit!]</td>
+    	<td class="population">[!Hospital:CONDITION:Worker!]</td>
+    	<td>[!Hospital:CREATE:Turns!]</td>
+    	<td>[!Hospital:REQUIREMENTS:0!]</td>
+    	<td>[!Hospital:RESEARCH:0!]</td>
+		<td>[!Hospital:UNIQUE:0!]</td>
+    	<td>[!Hospital:DEMOLISH:0!]</td>
+		<td>[!Hospital:SCORE:Asset!]</td>
     </tr>
+	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
 	<tr>
     	<td>Land_Reclamation</td>
     	<td class="metal">[!Land_Reclamation:CONDITION:Metal!]</td>
@@ -397,7 +439,9 @@
     	<td>[!Land_Reclamation:CREATE:Turns!]</td>
     	<td>[!Land_Reclamation:REQUIREMENTS:0!]</td>
     	<td>[!Land_Reclamation:RESEARCH:0!]</td>
+		<td>[!Land_Reclamation:UNIQUE:0!]</td>
     	<td>[!Land_Reclamation:DEMOLISH:0!]</td>
+		<td>[!Land_Reclamation:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Orbital_Clearing</td>
@@ -410,7 +454,9 @@
     	<td>[!Orbital_Clearing:CREATE:Turns!]</td>
     	<td>[!Orbital_Clearing:REQUIREMENTS:0!]</td>
     	<td>[!Orbital_Clearing:RESEARCH:0!]</td>
+		<td>[!Orbital_Clearing:UNIQUE:0!]</td>
     	<td>[!Orbital_Clearing:DEMOLISH:0!]</td>
+		<td>[!Orbital_Clearing:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Heavy_Weapons_Factory</td>
@@ -423,7 +469,24 @@
     	<td>[!Heavy_Weapons_Factory:CREATE:Turns!]</td>
     	<td>[!Heavy_Weapons_Factory:REQUIREMENTS:0!]</td>
     	<td>[!Heavy_Weapons_Factory:RESEARCH:0!]</td>
+		<td>[!Heavy_Weapons_Factory:UNIQUE:0!]</td>
     	<td>[!Heavy_Weapons_Factory:DEMOLISH:0!]</td>
+		<td>[!Heavy_Weapons_Factory:SCORE:Asset!]</td>
+    </tr>
+	<tr>
+    	<td>Space_Dock</td>
+    	<td class="metal">[!Space_Dock:CONDITION:Metal!]</td>
+    	<td class="mineral">[!Space_Dock:CONDITION:Mineral!]</td>
+        <td class="energy">[!Space_Dock:CONDITION:Energy!]</td>
+        <td>[!Space_Dock:CONDITION:Ground!]</td>
+        <td>[!Space_Dock:CONDITION:Orbit!]</td>
+    	<td class="population">[!Space_Dock:CONDITION:Worker!]</td>
+    	<td>[!Space_Dock:CREATE:Turns!]</td>
+    	<td>[!Space_Dock:REQUIREMENTS:0!]</td>
+    	<td>[!Space_Dock:RESEARCH:0!]</td>
+		<td>[!Space_Dock:UNIQUE:0!]</td>
+    	<td>[!Space_Dock:DEMOLISH:0!]</td>
+		<td>[!Space_Dock:SCORE:Asset!]</td>
     </tr>
 	<tr>
     	<td>Jump_Gate</td>
@@ -436,6 +499,8 @@
     	<td>[!Jump_Gate:CREATE:Turns!]</td>
     	<td>[!Jump_Gate:REQUIREMENTS:0!]</td>
     	<td>[!Jump_Gate:RESEARCH:0!]</td>
+		<td>[!Jump_Gate:UNIQUE:0!]</td>
     	<td>[!Jump_Gate:DEMOLISH:0!]</td>
+		<td>[!Jump_Gate:SCORE:Asset!]</td>
     </tr>
 </table>
