@@ -1,5 +1,5 @@
 <table>
-    <tr><td colspan="12">Standard Buildings</td></tr>
+    <tr><td colspan="13">Standard Buildings</td></tr>
     <tr>
     	<th>Name</td>
     	<th><img src="/assets/resources/metal.gif" alt="Metal" /></th>
@@ -30,7 +30,7 @@
     	<td>[!Outpost:DEMOLISH:0!]</td>
 		<td>[!Outpost:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
 	<tr>
     	<td>Metal_Mine</td>
     	<td class="metal">[!Metal_Mine:CONDITION:Metal!]</td>
@@ -91,7 +91,7 @@
     	<td>[!Solar_Generator:DEMOLISH:0!]</td>
 		<td>[!Solar_Generator:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
 	<tr>
     	<td>Living_Quarters</td>
     	<td class="metal">[!Living_Quarters:CONDITION:Metal!]</td>
@@ -167,7 +167,7 @@
     	<td>[!Habitat:DEMOLISH:0!]</td>
 		<td>[!Habitat:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 2</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2</td></tr>
 	<tr>
     	<td>Colony</td>
     	<td class="metal">[!Colony:CONDITION:Metal!]</td>
@@ -183,7 +183,7 @@
     	<td>[!Colony:DEMOLISH:0!]</td>
 		<td>[!Colony:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
 	<tr>
     	<td>Core_Metal_Mine</td>
     	<td class="metal">[!Core_Metal_Mine:CONDITION:Metal!]</td>
@@ -259,7 +259,7 @@
     	<td>[!Solar_Array:DEMOLISH:0!]</td>
 		<td>[!Solar_Array:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
 	<tr>
     	<td>Resource_Converter</td>
     	<td class="metal">[!Resource_Converter:CONDITION:Metal!]</td>
@@ -335,7 +335,7 @@
     	<td>[!Holo_Generator:DEMOLISH:0!]</td>
 		<td>[!Holo_Generator:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 3</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3</td></tr>
 	<tr>
     	<td>Metropolis</td>
     	<td class="metal">[!Metropolis:CONDITION:Metal!]</td>
@@ -351,7 +351,7 @@
     	<td>[!Metropolis:DEMOLISH:0!]</td>
 		<td>[!Metropolis:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
 	<tr>
     	<td>Strip_Metal_Mine</td>
     	<td class="metal">[!Strip_Metal_Mine:CONDITION:Metal!]</td>
@@ -427,7 +427,7 @@
     	<td>[!Hospital:DEMOLISH:0!]</td>
 		<td>[!Hospital:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="12" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
+	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
 	<tr>
     	<td>Land_Reclamation</td>
     	<td class="metal">[!Land_Reclamation:CONDITION:Metal!]</td>
