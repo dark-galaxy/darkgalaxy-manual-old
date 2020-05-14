@@ -394,7 +394,6 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-
 	<tr><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
 	<tr>
     	<td>Resource Converter</td>
