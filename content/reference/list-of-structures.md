@@ -425,7 +425,7 @@
     	<td>[!Light_Weapons_Factory:DEMOLISH:0!]</td>
 		<td>[!Light_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
-	<tr class="light border>
+	<tr class="light border">
     	<td>Army Barracks</td>
     	<td class="metal">[!Army_Barracks:CONDITION:Metal!]</td>
     	<td class="mineral">[!Army_Barracks:CONDITION:Mineral!]</td>
