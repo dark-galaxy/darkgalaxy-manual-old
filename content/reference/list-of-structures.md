@@ -1,5 +1,5 @@
 <table id="structureTable" class="collapse">
-    <tr class="border title"><td colspan="13">Standard Buildings</td></tr>
+    <tr class="border title"><td colspan="14">Standard Buildings</td></tr>
     <tr>
 		<th></th>
     	<th>Name</td>
@@ -32,7 +32,7 @@
     	<td>[!Outpost:DEMOLISH:0!]</td>
 		<td>[!Outpost:SCORE:Asset!]</td>
     </tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/metal_mine.jpg" alt="Metal Mine" /></td>
     	<td>Metal Mine</td>
@@ -157,7 +157,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/living_quarters.jpg" alt="Living Quarters" /></td>
     	<td>Living Quarters</td>
@@ -258,7 +258,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Habitat provides orbital housing for [!Habitat:STORAGE:Worker!] <span class="population">Workers</span>.</td>
 	</tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 2</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 2</td></tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/colony.jpg" alt="Colony" /></td>
     	<td>Colony</td>
@@ -275,7 +275,7 @@
     	<td>[!Colony:DEMOLISH:0!]</td>
 		<td>[!Colony:SCORE:Asset!]</td>
     </tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/core_metal_mine.jpg" alt="Core Metal Mine" /></td>
     	<td>Core Metal Mine</td>
@@ -431,7 +431,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/resource_converter.jpg" alt="Resource Converter" /></td>
     	<td>Resource Converter</td>
@@ -532,7 +532,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Holo Generator allows the construction of Holographic Decoy Ships</td>
 	</tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 3</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 3</td></tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/metropolis.jpg" alt="Metropolis" /></td>
     	<td>Metropolis</td>
@@ -549,7 +549,7 @@
     	<td>[!Metropolis:DEMOLISH:0!]</td>
 		<td>[!Metropolis:SCORE:Asset!]</td>
     </tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/strip_metal_mine.jpg" alt="Strip Metal Mine" /></td>
     	<td>Strip Metal Mine</td>
@@ -705,7 +705,7 @@
 		<td>&nbsp</td>
 		<td>&nbsp</td>
 	</tr>
-	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
+	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/land_reclamation.jpg" alt="Land Reclamation" /></td>
     	<td>Land Reclamation</td>
