@@ -32,7 +32,7 @@
     	<td>[!Outpost:DEMOLISH:0!]</td>
 		<td>[!Outpost:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="13">&nbsp;</td></tr>
+	<tr><td></td><td colspan="13">&nbsp;</td></tr>
 	<tr class="title"><td></td><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Resource Generators</td></tr>
 	<tr class="light">
 		<td rowspan="2"><img src="https://beta.darkgalaxy.com/images/units/main/structures/metal_mine.jpg" alt="Metal Mine" /></td>
@@ -285,7 +285,7 @@
     	<td>[!Colony:DEMOLISH:0!]</td>
 		<td>[!Colony:SCORE:Asset!]</td>
     </tr>
-	<tr><td colspan="13">&nbsp;</td></tr>
+	<tr><td></td><td colspan="13">&nbsp;</td></tr>
 	<tr class="title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
 	<tr class="light">
 		<td rowspan="2"><img src="https://beta.darkgalaxy.com/images/units/main/structures/core_metal_mine.jpg" alt="Core Metal Mine" /></td>
@@ -570,7 +570,7 @@
     	<td>[!Metropolis:DEMOLISH:0!]</td>
 		<td>[!Metropolis:SCORE:Asset!]</td>
     </tr>
-	<tr><td></td><td colspan="12">&nbsp;</td></tr>
+	<tr><td></td><td colspan="13">&nbsp;</td></tr>
 	<tr class="title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
 	<tr class="dark">
 		<td rowspan="2"><img src="https://beta.darkgalaxy.com/images/units/main/structures/strip_metal_mine.jpg" alt="Strip Metal Mine" /></td>
