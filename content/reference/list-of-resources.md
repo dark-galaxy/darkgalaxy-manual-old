@@ -55,11 +55,11 @@ Accumulated on your planets by building energy producing structures. Consumed by
 
 ## Ground space
 
-Each planet will have a finite amount of ground space available. Once all space has been used you will not be able to construct further land-requiring buildings until reclaiming more space with [Land Reclamation](list-of-structures.md#land-reclamation).
+Each planet will have a finite amount of ground space available. Once all space has been used you will not be able to construct further land-requiring buildings until reclaiming more space with [Land Reclamation](/content/reference/list-of-structures.md#land-reclamation).
 
 ## Orbital space
 
-Each planet will have a finite amount of orbital space available. Once all space has been used you will not be able to construct further orbit-requiring buildings until reclaiming more space with [Orbital Clearing](list-of-structures.md#orbital-clearing).
+Each planet will have a finite amount of orbital space available. Once all space has been used you will not be able to construct further orbit-requiring buildings until reclaiming more space with [Orbital Clearing](/content/reference/list-of-structures.md#orbital-clearing).
 
 ## Research points
 
