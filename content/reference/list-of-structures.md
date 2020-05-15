@@ -49,7 +49,7 @@
     	<td>[!Metal_Mine:DEMOLISH:0!]</td>
 		<td>[!Metal_Mine:SCORE:Asset!]</td>
     </tr>
-	<tr class="light">
+	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td class="metal">[!Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp</td>
