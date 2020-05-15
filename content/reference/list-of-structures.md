@@ -52,17 +52,17 @@
 	<tr>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td class="metal">[!Metal_Mine:UPKEEP:Metal!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/mineral_extractor.jpg" alt="Mineral Extractor" /></td>
@@ -82,18 +82,18 @@
     </tr>
 	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
 		<td class="mineral">[!Mineral_Extractor:UPKEEP:Mineral!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/farm.jpg" alt="Farm" /></td>
@@ -113,18 +113,18 @@
     </tr>
 	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="population">[!Farm:UPKEEP:Worker!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/solar_generator.jpg" alt="Solar Generator" /></td>
@@ -144,18 +144,18 @@
     </tr>
 	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="energy">[!Solar_Generator:UPKEEP:Energy!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
 	<tr class="light border">
@@ -295,17 +295,17 @@
 	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td class="metal">[!Core_Metal_Mine:UPKEEP:Metal!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/core_mineral_extractor.jpg" alt="Core Mineral Extractor" /></td>
@@ -325,18 +325,18 @@
     </tr>
 	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
 		<td class="mineral">[!Core_Mineral_Extractor:UPKEEP:Mineral!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/leisure_centre.jpg" alt="Leisure Centre" /></td>
@@ -356,18 +356,18 @@
     </tr>
 	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="population">[!Leisure_Centre:UPKEEP:Worker!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/hydroponics_lab.jpg" alt="Hydroponics Lab" /></td>
@@ -387,18 +387,18 @@
     </tr>
 	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="population">[!Hydroponics_Lab:UPKEEP:Worker!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/solar_array.jpg" alt="Solar Array" /></td>
@@ -418,18 +418,18 @@
     </tr>
 	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="energy">[!Solar_Array:UPKEEP:Energy!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
 	<tr class="dark border">
@@ -569,17 +569,17 @@
 	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td class="metal">[!Strip_Metal_Mine:UPKEEP:Metal!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/strip_mineral_extractor.jpg" alt="Strip Mineral Extractor" /></td>
@@ -599,18 +599,18 @@
     </tr>
 	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
 		<td class="mineral">[!Strip_Mineral_Extractor:UPKEEP:Mineral!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/hydroponics_dome.jpg" alt="Hydroponics Dome" /></td>
@@ -630,18 +630,18 @@
     </tr>
 	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="population">[!Hydroponics_Dome:UPKEEP:Worker!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="light border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/solar_station.jpg" alt="Solar Station" /></td>
@@ -661,18 +661,18 @@
     </tr>
 	<tr class="light">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="energy">[!Solar_Station:UPKEEP:Energy!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="dark border">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/hospital.jpg" alt="Hospital" /></td>
@@ -692,18 +692,18 @@
     </tr>
 	<tr class="dark">
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 		<td class="population">[!Hospital:UPKEEP:Worker!]</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
-		<td>&nbsp</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
 	</tr>
 	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
 	<tr class="light border">
