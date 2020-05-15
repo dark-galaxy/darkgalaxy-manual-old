@@ -65,7 +65,7 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/mineral_extractor.jpg" alt="Mineral Extractor" /></td>
     	<td>Mineral Extractor</td>
     	<td>[!Mineral_Extractor:CONDITION:Metal!]</td>
@@ -129,7 +129,7 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/solar_generator.jpg" alt="Solar Generator" /></td>
     	<td>Solar Generator</td>
     	<td>[!Solar_Generator:CONDITION:Metal!]</td>
@@ -183,7 +183,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Living Quarters provides ground-based housing for [!Living_Quarters:STORAGE:Worker!] <span>Workers</span>.</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/launch_site.jpg" alt="Launch Site" /></td>
     	<td>Launch Site</td>
     	<td>[!Launch_Site:CONDITION:Metal!]</td>
@@ -225,7 +225,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Ship Yard provides access to ships, and allows immediate building of Outpost Ships, Invasion Ships, and Freighters</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/comms_satellite.jpg" alt="Comms Satellite" /></td>
     	<td>Comms Satellite</td>
     	<td>[!Comms_Satellite:CONDITION:Metal!]</td>
@@ -268,7 +268,7 @@
 		<td colspan="12">The Habitat provides orbital housing for [!Habitat:STORAGE:Worker!] <span>Workers</span>.</td>
 	</tr>
 	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 2</td></tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/colony.jpg" alt="Colony" /></td>
     	<td>Colony</td>
     	<td>[!Colony:CONDITION:Metal!]</td>
@@ -317,7 +317,7 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/core_mineral_extractor.jpg" alt="Core Mineral Extractor" /></td>
     	<td>Core Mineral Extractor</td>
     	<td>[!Core_Mineral_Extractor:CONDITION:Metal!]</td>
@@ -381,7 +381,7 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/hydroponics_lab.jpg" alt="Hydroponics Lab" /></td>
     	<td>Hydroponics Lab</td>
     	<td>[!Hydroponics_Lab:CONDITION:Metal!]</td>
@@ -446,7 +446,7 @@
 		<td>&nbsp;</td>
 	</tr>
 	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/resource_converter.jpg" alt="Resource Converter" /></td>
     	<td>Resource Converter</td>
     	<td>[!Resource_Converter:CONDITION:Metal!]</td>
@@ -488,7 +488,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The light weapons factory provides the ability to build Fighters, Bombers and Frigates from a Ship Yard, Cruisers from a Space Dock, and Soliders from an Army Barracks</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/army_barracks.jpg" alt="Army Barracks" /></td>
     	<td>Army Barracks</td>
     	<td>[!Army_Barracks:CONDITION:Metal!]</td>
@@ -530,7 +530,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">When moving your fleets towards planets with a Hyperspace Beacon, travel time is reduced by 25%</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/holo_generator.jpg" alt="Holo Generator" /></td>
     	<td>Holo Generator</td>
     	<td>[!Holo_Generator:CONDITION:Metal!]</td>
@@ -569,7 +569,7 @@
 		<td>[!Metropolis:SCORE:Asset!]</td>
     </tr>
 	<tr class="border title"><td colspan="14" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/strip_metal_mine.jpg" alt="Strip Metal Mine" /></td>
     	<td>Strip Metal Mine</td>
     	<td>[!Strip_Metal_Mine:CONDITION:Metal!]</td>
@@ -633,7 +633,7 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/hydroponics_dome.jpg" alt="Hydroponics Dome" /></td>
     	<td>Hydroponics Dome</td>
     	<td>[!Hydroponics_Dome:CONDITION:Metal!]</td>
@@ -697,7 +697,7 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/hospital.jpg" alt="Hospital" /></td>
     	<td>Hospital</td>
     	<td>[!Hospital:CONDITION:Metal!]</td>
@@ -751,7 +751,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">Land Reclamation will add 1 Ground space to a planet.</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/orbital_clearing.jpg" alt="Orbital Clearing" /></td>
     	<td>Orbital Clearing</td>
     	<td>[!Orbital_Clearing:CONDITION:Metal!]</td>
@@ -793,7 +793,7 @@
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Heavy Weapons factory allows a Ship Yard to build Destroyers, and a Space Dock to build Battleships.</td>
 	</tr>
-	<tr class="light">
+	<tr class="dark">
 		<td rowspan="2" class="unitImage"><img src="https://beta.darkgalaxy.com/images/units/main/structures/space_dock.jpg" alt="Space Dock" /></td>
     	<td>Space Dock</td>
     	<td>[!Space_Dock:CONDITION:Metal!]</td>
