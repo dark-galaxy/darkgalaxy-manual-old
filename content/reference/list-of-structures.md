@@ -16,7 +16,7 @@
 		<th>Score</th>
     </tr>
 	<tr>
-    	<td>Outpost</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/outpost.jpg" alt="Outpost" /> Outpost</td>
     	<td class="metal">[!Outpost:CONDITION:Metal!]</td>
     	<td class="mineral">[!Outpost:CONDITION:Mineral!]</td>
         <td class="energy">[!Outpost:UPKEEP:Energy!]</td>
@@ -32,7 +32,7 @@
     </tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Resourch Generators</td></tr>
 	<tr class="light border">
-    	<td>Metal Mine</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/metal_mine.jpg" alt="Metal Mine" /> Metal Mine</td>
     	<td class="metal">[!Metal_Mine:CONDITION:Metal!]</td>
     	<td class="mineral">[!Metal_Mine:CONDITION:Mineral!]</td>
         <td class="energy">[!Metal_Mine:UPKEEP:Energy!]</td>
@@ -62,7 +62,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Mineral Extractor</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/mineral_extractor.jpg" alt="Mineral Extractor" /> Mineral Extractor</td>
     	<td class="metal">[!Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Mineral_Extractor:CONDITION:Mineral!]</td>
         <td class="energy">[!Mineral_Extractor:UPKEEP:Energy!]</td>
@@ -92,7 +92,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="light border">
-    	<td>Farm</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/farm.jpg" alt="Farm" /> Farm</td>
     	<td class="metal">[!Farm:CONDITION:Metal!]</td>
     	<td class="mineral">[!Farm:CONDITION:Mineral!]</td>
         <td class="energy">[!Farm:UPKEEP:Energy!]</td>
@@ -122,7 +122,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Solar Generator</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/solar_generator.jpg" alt="Solar Generator" /> Solar Generator</td>
     	<td class="metal">[!Solar_Generator:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Generator:CONDITION:Mineral!]</td>
         <td class="energy">&nbsp;</td>
@@ -153,7 +153,7 @@
 	</tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 1 Support Structures</td></tr>
 	<tr class="light border">
-    	<td>Living Quarters</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/living_quarters.jpg" alt="Living Quarters" /> Living Quarters</td>
     	<td class="metal">[!Living_Quarters:CONDITION:Metal!]</td>
     	<td class="mineral">[!Living_Quarters:CONDITION:Mineral!]</td>
         <td class="energy">[!Living_Quarters:UPKEEP:Energy!]</td>
@@ -172,7 +172,7 @@
 		<td colspan="12">The Living Quarters provides ground-based housing for [!Living_Quarters:STORAGE:Worker!] <span class="population">Workers</span>.</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Launch_Site</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/launch_site.jpg" alt="Launch Site" /> Launch Site</td>
     	<td class="metal">[!Launch_Site:CONDITION:Metal!]</td>
     	<td class="mineral">[!Launch_Site:CONDITION:Mineral!]</td>
         <td class="energy">[!Launch_Site:UPKEEP:Energy!]</td>
@@ -191,7 +191,7 @@
 		<td colspan="12">The Launch Site provides a base for launching orbital structures.</td>
 	</tr>
 	<tr class="light border">
-    	<td>Ship Yard</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/ship_yard.jpg" alt="Ship Yard" /> Ship Yard</td>
     	<td class="metal">[!Ship_Yard:CONDITION:Metal!]</td>
     	<td class="mineral">[!Ship_Yard:CONDITION:Mineral!]</td>
         <td class="energy">[!Ship_Yard:UPKEEP:Energy!]</td>
@@ -210,7 +210,7 @@
 		<td colspan="12">The Ship Yard provides access to ships, and allows immediate building of Outpost Ships, Invasion Ships, and Freighters</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Comms Satellite</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/comms_satellite.jpg" alt="Comms Satellite" /> Comms Satellite</td>
     	<td class="metal">[!Comms_Satellite:CONDITION:Metal!]</td>
     	<td class="mineral">[!Comms_Satellite:CONDITION:Mineral!]</td>
         <td class="energy">[!Comms_Satellite:UPKEEP:Energy!]</td>
@@ -229,7 +229,7 @@
 		<td colspan="12">The Communications Satellite provides you with system-wide radar, and allows you to perform scans of fleets and planets.</td>
 	</tr>
 	<tr class="light border">
-    	<td>Habitat</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/habitat.jpg" alt="Habitat" /> Habitat</td>
     	<td class="metal">[!Habitat:CONDITION:Metal!]</td>
     	<td class="mineral">[!Habitat:CONDITION:Mineral!]</td>
         <td class="energy">[!Habitat:UPKEEP:Energy!]</td>
@@ -249,7 +249,7 @@
 	</tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 2</td></tr>
 	<tr class="dark border">
-    	<td>Colony</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/colony.jpg" alt="Colony" /> Colony</td>
     	<td class="metal">[!Colony:CONDITION:Metal!]</td>
     	<td class="mineral">[!Colony:CONDITION:Mineral!]</td>
         <td class="energy">[!Colony:UPKEEP:Energy!]</td>
@@ -265,7 +265,7 @@
     </tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Resource Generators</td></tr>
 	<tr class="light border">
-    	<td>Core Metal Mine</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/core_metal_mine.jpg" alt="Core Metal Mine" /> Core Metal Mine</td>
     	<td class="metal">[!Core_Metal_Mine:CONDITION:Metal!]</td>
     	<td class="mineral">[!Core_Metal_Mine:CONDITION:Mineral!]</td>
         <td class="energy">[!Core_Metal_Mine:UPKEEP:Energy!]</td>
@@ -295,7 +295,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Core Mineral Extractor</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/core_mineral_extractor.jpg" alt="Core Mineral Extractor" /> Core Mineral Extractor</td>
     	<td class="metal">[!Core_Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Core_Mineral_Extractor:CONDITION:Mineral!]</td>
         <td class="energy">[!Core_Mineral_Extractor:UPKEEP:Energy!]</td>
@@ -325,7 +325,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="light border">
-    	<td>Leisure Centre</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/leisure_centre.jpg" alt="Leisure Centre" /> Leisure Centre</td>
     	<td class="metal">[!Leisure_Centre:CONDITION:Metal!]</td>
     	<td class="mineral">[!Leisure_Centre:CONDITION:Mineral!]</td>
         <td class="energy">[!Leisure_Centre:UPKEEP:Energy!]</td>
@@ -355,7 +355,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Hydroponics Lab</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/hydroponics_lab.jpg" alt="Hydroponics Lab" /> Hydroponics Lab</td>
     	<td class="metal">[!Hydroponics_Lab:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hydroponics_Lab:CONDITION:Mineral!]</td>
         <td class="energy">[!Hydroponics_Lab:UPKEEP:Energy!]</td>
@@ -385,7 +385,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="light border">
-    	<td>Solar Array</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/solar_array.jpg" alt="Solar Array" /> Solar Array</td>
     	<td class="metal">[!Solar_Array:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Array:CONDITION:Mineral!]</td>
         <td class="energy">&nbsp;</td>
@@ -416,7 +416,7 @@
 	</tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 2 Support Structures</td></tr>
 	<tr class="dark border">
-    	<td>Resource Converter</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/resource_converter.jpg" alt="Resource Converter" /> Resource Converter</td>
     	<td class="metal">[!Resource_Converter:CONDITION:Metal!]</td>
     	<td class="mineral">[!Resource_Converter:CONDITION:Mineral!]</td>
         <td class="energy">[!Resource_Converter:UPKEEP:Energy!]</td>
@@ -435,7 +435,7 @@
 		<td colspan="12">The resource converter allows you to convert <span class="metal">Metal</span> and <span class="mineral">Mineral</span> to <span class="energy">Energy</span>, and back again.</td>
 	</tr>
 	<tr class="light border">
-    	<td>Light Weapons Factory</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/light_weapons_factory.jpg" alt="Light Weapons Factory" /> Light Weapons Factory</td>
     	<td class="metal">[!Light_Weapons_Factory:CONDITION:Metal!]</td>
     	<td class="mineral">[!Light_Weapons_Factory:CONDITION:Mineral!]</td>
         <td class="energy">[!Light_Weapons_Factory:UPKEEP:Energy!]</td>
@@ -454,7 +454,7 @@
 		<td colspan="12">The light weapons factory provides the ability to build Fighters, Bombers and Frigates from a Ship Yard, Cruisers from a Space Dock, and Soliders from an Army Barracks</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Army Barracks</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/army_barracks.jpg" alt="Army Barracks" /> Army Barracks</td>
     	<td class="metal">[!Army_Barracks:CONDITION:Metal!]</td>
     	<td class="mineral">[!Army_Barracks:CONDITION:Mineral!]</td>
         <td class="energy">[!Army_Barracks:UPKEEP:Energy!]</td>
@@ -473,7 +473,7 @@
 		<td colspan="12">The Army Barracks allows the training of Soldiers. Each Barracks also provides accomodations for [!Army_Barracks:STORAGE:Soldier!] Soldiers.</td>
 	</tr>
 	<tr class="light border">
-    	<td>Hyperspace Beacon</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/hyperspace_beacon.jpg" alt="Hyperspace Beacon" /> Hyperspace Beacon</td>
     	<td class="metal">[!Hyperspace_Beacon:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hyperspace_Beacon:CONDITION:Mineral!]</td>
         <td class="energy">[!Hyperspace_Beacon:UPKEEP:Energy!]</td>
@@ -492,7 +492,7 @@
 		<td colspan="12">When moving your fleets towards planets with a Hyperspace Beacon, travel time is reduced by 25%</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Holo Generator</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/holo_generator.jpg" alt="Holo Generator" /> Holo Generator</td>
     	<td class="metal">[!Holo_Generator:CONDITION:Metal!]</td>
     	<td class="mineral">[!Holo_Generator:CONDITION:Mineral!]</td>
         <td class="energy">[!Holo_Generator:UPKEEP:Energy!]</td>
@@ -512,7 +512,7 @@
 	</tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 3</td></tr>
 	<tr class="light border">
-    	<td>Metropolis</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/metropolis.jpg" alt="Metropolis" /> Metropolis</td>
     	<td class="metal">[!Metropolis:CONDITION:Metal!]</td>
     	<td class="mineral">[!Metropolis:CONDITION:Mineral!]</td>
         <td class="energy">[!Metropolis:UPKEEP:Energy!]</td>
@@ -528,7 +528,7 @@
     </tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Resource Generators</td></tr>
 	<tr class="dark border">
-    	<td>Strip Metal Mine</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/strip_metal_mine.jpg" alt="Strip Metal Mine" /> Strip Metal Mine</td>
     	<td class="metal">[!Strip_Metal_Mine:CONDITION:Metal!]</td>
     	<td class="mineral">[!Strip_Metal_Mine:CONDITION:Mineral!]</td>
         <td class="energy">[!Strip_Metal_Mine:UPKEEP:Energy!]</td>
@@ -558,7 +558,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="light border">
-    	<td>Strip Mineral Extractor</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/strip_mineral_extractor.jpg" alt="Strip Mineral Extractor" /> Strip Mineral Extractor</td>
     	<td class="metal">[!Strip_Mineral_Extractor:CONDITION:Metal!]</td>
     	<td class="mineral">[!Strip_Mineral_Extractor:CONDITION:Mineral!]</td>
         <td class="energy">[!Strip_Mineral_Extractor:UPKEEP:Energy!]</td>
@@ -588,7 +588,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Hydroponics Dome</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/hydroponics_dome.jpg" alt="Hydroponics Dome" /> Hydroponics Dome</td>
     	<td class="metal">[!Hydroponics_Dome:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hydroponics_Dome:CONDITION:Mineral!]</td>
         <td class="energy">[!Hydroponics_Dome:UPKEEP:Energy!]</td>
@@ -618,7 +618,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="light border">
-    	<td>Solar Station</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/solar_station.jpg" alt="Solar Station" /> Solar Station</td>
     	<td class="metal">[!Solar_Station:CONDITION:Metal!]</td>
     	<td class="mineral">[!Solar_Station:CONDITION:Mineral!]</td>
         <td class="energy">&nbsp;</td>
@@ -648,7 +648,7 @@
 		<td>&nbsp</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Hospital</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/hospital.jpg" alt="Hospital" /> Hospital</td>
     	<td class="metal">[!Hospital:CONDITION:Metal!]</td>
     	<td class="mineral">[!Hospital:CONDITION:Mineral!]</td>
         <td class="energy">[!Hospital:UPKEEP:Energy!]</td>
@@ -679,7 +679,7 @@
 	</tr>
 	<tr class="border title"><td colspan="13" style="font-weight: bold; text-align: center">Tier 3 Support Structures</td></tr>
 	<tr class="light border">
-    	<td>Land Reclamation</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/land_reclamation.jpg" alt="Land Reclamation" /> Land Reclamation</td>
     	<td class="metal">[!Land_Reclamation:CONDITION:Metal!]</td>
     	<td class="mineral">[!Land_Reclamation:CONDITION:Mineral!]</td>
         <td class="energy">[!Land_Reclamation:UPKEEP:Energy!]</td>
@@ -698,7 +698,7 @@
 		<td colspan="12">Land Reclamation will add 1 Ground space to a planet.</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Orbital Clearing</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/orbital_clearing.jpg" alt="Orbital Clearing" /> Orbital Clearing</td>
     	<td class="metal">[!Orbital_Clearing:CONDITION:Metal!]</td>
     	<td class="mineral">[!Orbital_Clearing:CONDITION:Mineral!]</td>
         <td class="energy">[!Orbital_Clearing:UPKEEP:Energy!]</td>
@@ -717,7 +717,7 @@
 		<td colspan="12">Orbital Clearing will add 1 Orbit space to a planet.</td>
 	</tr>
 	<tr class="light border">
-    	<td>Heavy Weapons Factory</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/heavy_weapons_factory.jpg" alt="Heavy Weapons Factory" /> Heavy Weapons Factory</td>
     	<td class="metal">[!Heavy_Weapons_Factory:CONDITION:Metal!]</td>
     	<td class="mineral">[!Heavy_Weapons_Factory:CONDITION:Mineral!]</td>
         <td class="energy">[!Heavy_Weapons_Factory:UPKEEP:Energy!]</td>
@@ -736,7 +736,7 @@
 		<td colspan="12">The Heavy Weapons factory allows a Ship Yard to build Destroyers, and a Space Dock to build Battleships.</td>
 	</tr>
 	<tr class="dark border">
-    	<td>Space Dock</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/space_dock.jpg" alt="Space Dock" /> Space Dock</td>
     	<td class="metal">[!Space_Dock:CONDITION:Metal!]</td>
     	<td class="mineral">[!Space_Dock:CONDITION:Mineral!]</td>
         <td class="energy">[!Space_Dock:UPKEEP:Energy!]</td>
@@ -755,7 +755,7 @@
 		<td colspan="12">The Space Dock can be used to produce Cruisers, Battleships and Traders.</td>
 	</tr>
 	<tr class="light border">
-    	<td>Jump Gate</td>
+    	<td><img src="https://beta.darkgalaxy.com/images/units/main/structures/jump_gate.jpg" alt="Jump Gate" /> Jump Gate</td>
     	<td class="metal">[!Jump_Gate:CONDITION:Metal!]</td>
     	<td class="mineral">[!Jump_Gate:CONDITION:Mineral!]</td>
         <td class="energy">[!Jump_Gate:UPKEEP:Energy!]</td>

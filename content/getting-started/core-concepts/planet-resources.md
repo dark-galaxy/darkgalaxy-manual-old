@@ -1,6 +1,6 @@
 A planet is comprised of many elements, on this page, we'll take a look at a planet's various components and detail what they all are, and what they are for, and how they are used.
 
-This page primarily focuses on the planet header, and describes the numbers and what they mean. For information on other parts of the planet page, check out the [Planets Section](/content/interface-gameplay/planets.md) in [Interface & Gameplay](/content/interface-gameplay.md).
+This page primarily focuses on the planet header, and describes the numbers and what they mean. For information on other parts of the planet page, check out the [Planets Section](/content/interface-and-gameplay/planets.md) in [Interface & Gameplay](/content/interface-and-gameplay.md).
 
 
 
@@ -10,7 +10,7 @@ The planet header contains a lot of information about a planet, and looks a litt
 
 ![Planet Header](/assets/planet/planet-header.png)
 
-A more compact version of this data is also available on the [Planet List](/content/interface-gameplay/planets/planets-list.md).
+A more compact version of this data is also available on the [Planet List](/content/interface-and-gameplay/planets/planets-list.md).
 
 To help explain all the information provided, I'm going to break it down into smaller chunks and explain each part of the header.
 

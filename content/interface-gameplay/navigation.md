@@ -1,5 +1,3 @@
-# Navgnation
-
 The game is split into 3 distinct areas which are each given a unique coordinate. 
 
 The first coordinate shows which sector of the galaxy you are in.
