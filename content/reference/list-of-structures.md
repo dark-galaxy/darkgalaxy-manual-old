@@ -1,4 +1,4 @@
-<table id="structureTable" class="collapse">
+<table class="structureTable collapse">
     <tr class="border title"><td colspan="14">Standard Buildings</td></tr>
     <tr>
 		<th></th>
