@@ -50,6 +50,7 @@
 		<td>[!Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr>
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>[!Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp;</td>
@@ -81,6 +82,7 @@
 		<td>[!Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>[!Mineral_Extractor:UPKEEP:Mineral!]</td>
@@ -112,6 +114,7 @@
 		<td>[!Farm:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -143,6 +146,7 @@
 		<td>[!Solar_Generator:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -175,6 +179,7 @@
 		<td>[!Living_Quarters:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Living Quarters provides ground-based housing for [!Living_Quarters:STORAGE:Worker!] <span>Workers</span>.</td>
 	</tr>
@@ -195,6 +200,7 @@
 		<td>[!Launch_Site:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Launch Site provides a base for launching orbital structures.</td>
 	</tr>
@@ -215,6 +221,7 @@
 		<td>[!Ship_Yard:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Ship Yard provides access to ships, and allows immediate building of Outpost Ships, Invasion Ships, and Freighters</td>
 	</tr>
@@ -235,6 +242,7 @@
 		<td>[!Comms_Satellite:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Communications Satellite provides you with system-wide radar, and allows you to perform scans of fleets and planets.</td>
 	</tr>
@@ -255,6 +263,7 @@
 		<td>[!Habitat:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Habitat provides orbital housing for [!Habitat:STORAGE:Worker!] <span>Workers</span>.</td>
 	</tr>
@@ -293,6 +302,7 @@
 		<td>[!Core_Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>[!Core_Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp;</td>
@@ -324,6 +334,7 @@
 		<td>[!Core_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>[!Core_Mineral_Extractor:UPKEEP:Mineral!]</td>
@@ -355,6 +366,7 @@
 		<td>[!Leisure_Centre:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -386,6 +398,7 @@
 		<td>[!Hydroponics_Lab:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -417,6 +430,7 @@
 		<td>[!Solar_Array:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -449,6 +463,7 @@
 		<td>[!Resource_Converter:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The resource converter allows you to convert <span>Metal</span> and <span>Mineral</span> to <span>Energy</span>, and back again.</td>
 	</tr>
@@ -469,6 +484,7 @@
 		<td>[!Light_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The light weapons factory provides the ability to build Fighters, Bombers and Frigates from a Ship Yard, Cruisers from a Space Dock, and Soliders from an Army Barracks</td>
 	</tr>
@@ -489,6 +505,7 @@
 		<td>[!Army_Barracks:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Army Barracks allows the training of Soldiers. Each Barracks also provides accomodations for [!Army_Barracks:STORAGE:Soldier!] Soldiers.</td>
 	</tr>
@@ -509,6 +526,7 @@
 		<td>[!Hyperspace_Beacon:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">When moving your fleets towards planets with a Hyperspace Beacon, travel time is reduced by 25%</td>
 	</tr>
@@ -529,6 +547,7 @@
 		<td>[!Holo_Generator:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Holo Generator allows the construction of Holographic Decoy Ships</td>
 	</tr>
@@ -567,6 +586,7 @@
 		<td>[!Strip_Metal_Mine:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>[!Strip_Metal_Mine:UPKEEP:Metal!]</td>
 		<td>&nbsp;</td>
@@ -598,6 +618,7 @@
 		<td>[!Strip_Mineral_Extractor:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>[!Strip_Mineral_Extractor:UPKEEP:Mineral!]</td>
@@ -629,6 +650,7 @@
 		<td>[!Hydroponics_Dome:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -660,6 +682,7 @@
 		<td>[!Solar_Station:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -691,6 +714,7 @@
 		<td>[!Hospital:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Output:</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -723,6 +747,7 @@
 		<td>[!Land_Reclamation:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">Land Reclamation will add 1 Ground space to a planet.</td>
 	</tr>
@@ -743,6 +768,7 @@
 		<td>[!Orbital_Clearing:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">Orbital Clearing will add 1 Orbit space to a planet.</td>
 	</tr>
@@ -763,6 +789,7 @@
 		<td>[!Heavy_Weapons_Factory:SCORE:Asset!]</td>
     </tr>
 	<tr class="light">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Heavy Weapons factory allows a Ship Yard to build Destroyers, and a Space Dock to build Battleships.</td>
 	</tr>
@@ -783,6 +810,7 @@
 		<td>[!Space_Dock:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">The Space Dock can be used to produce Cruisers, Battleships and Traders.</td>
 	</tr>
@@ -803,6 +831,7 @@
 		<td>[!Jump_Gate:SCORE:Asset!]</td>
     </tr>
 	<tr class="dark">
+		<td></td>
 		<td style="font-weight: normal; text-align: right; font-style: italic">Description:</td>
 		<td colspan="12">With a friendly Jump Gate at the origin and destination, alliance fleet movements are reduced by 25%</td>
 	</tr>
