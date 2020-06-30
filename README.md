@@ -31,7 +31,7 @@ Lookup Type can be one of the following:
   * **REQUIREMENTS** - A comma separated list of pre-requisites before this unit can be built.
   
 **The following macros are boolean values, they will currently return 'Yes' for true, or a blank space for false. They also require \<RESOURCE\> to be set to 0.**
-  * **RESEARCH** - Whether this unit requires research to be available. Returns 'Yes' if true, '&nbsp;' if false.
+  * **RESEARCH** - Whether this unit requires research to be available.
   * **DEMOLISH** - Whether this unit can be destroyed.
   * **UNIQUE** - Whether more than one of this unit can be built at a location
   
