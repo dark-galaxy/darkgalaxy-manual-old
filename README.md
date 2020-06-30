@@ -14,7 +14,7 @@ If you'd like to contribute, and are tech savvy, please feel free to submit pull
 
 The Dark Galaxy manual supports using 'Macros' to extract certain information from the game engine directly at build time (before deploying to https://manual.darkgalaxy.com), these macros exist in the format:
 
-`[!<UNIT_NAME>:<LOOKUP_TYPE>:<RESOURCE>]`
+`[!<UNIT_NAME>:<LOOKUP_TYPE>:<RESOURCE>!]`
   
 Unit names are the names as presented in-game, with underscores (\_) replacing spaces, and formatted in Camel_Case.
 
