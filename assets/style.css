@@ -1,0 +1,159 @@
+/* ToC Box */
+.sideBoxEntry ol, .sideBoxEntry ul {
+    padding-inline-start: 20px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.sideBoxEntry ol > li, .sideBoxEntry ul > li {
+    padding: 2px;
+}
+
+/** Main Content Box **/
+.lightGradientBox div.contentBox {
+    background-color: #2e2e2e;
+    border: 1px solid #5a5a5a;
+    padding: 9px;
+    font-size: 13px;
+}
+
+
+/** Table Default Rendering **/
+table {
+    border: 1px solid #545454;
+    min-width: 600px;
+}
+
+table.collapse {
+    border-collapse: collapse;
+}
+
+table.collapse td {
+    border: 1px solid #5a5a5a;
+}
+
+th {
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.35);
+    padding: 6px 13px;
+}
+
+td {
+    padding: 6px 13px;
+}
+
+tr td:nth-child(1) {
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(75, 75, 75, 0.6)
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(255, 255, 255, 0.15)
+}
+
+/** Resources **/
+.metal {
+    color: #EEEEEE;
+}
+
+.mineral {
+    color: #E33E4C;
+}
+
+.energy {
+    color: #6596DA;
+}
+
+.population {
+    color: #EAC861;
+}
+
+.structureTable tr.dark {
+    border-top: 3px solid #5a5a5a;
+    background-color: rgba(75, 75, 75, 0.6);
+}
+
+.structureTable tr.dark + tr {
+    background-color: rgba(75, 75, 75, 0.6);
+}
+
+.structureTable tr.light {
+    border-top: 3px solid #5a5a5a;
+    background-color: rgba(255, 255, 255, 0.15)
+}
+
+.structureTable tr.light + tr {
+    background-color: rgba(255, 255, 255, 0.15)
+}
+
+/* Image Column */
+.structureTable tr td:nth-child(1) {
+
+}
+
+.structureTable tr td:nth-child(1) img {
+    width: 45px;
+    height: 45px;
+}
+
+
+.structureTable tr.light + tr td:nth-child(1), .structureTable tr.dark + tr td:nth-child(1) {
+    display: none;
+}
+
+
+/* Name Column */
+.structureTable tr td:nth-child(2) {
+    font-weight: bold;
+}
+
+/* 'Output / Description */
+.structureTable tr.light + tr td:nth-child(2), .structureTable tr.dark + tr td:nth-child(2) {
+    text-align: right;
+    font-style: italic;
+    font-weight: normal;
+}
+
+/* Metal */
+.structureTable tr td:nth-child(3) {
+    color: #EEEEEE;
+}
+
+/* Mineral */
+.structureTable tr td:nth-child(4) {
+    color: #E33E4C;
+}
+
+/* Energy */
+.structureTable tr td:nth-child(5) {
+    color: #6596DA;
+}
+
+/* Population */
+.structureTable tr td:nth-child(8) {
+    color: #EAC861;
+}
+
+.structureTable tr.title {
+    border-top: 3px solid #5a5a5a;
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+tr.title {
+    background-color: rgba(0, 0, 0, 0.35);
+}
+
+tr.dark {
+    background-color: rgba(75, 75, 75, 0.6);
+}
+
+tr.light {
+    background-color: rgba(255, 255, 255, 0.15)
+}
+
+tr.border {
+    border-top: 2px solid #5a5a5a;
+}
