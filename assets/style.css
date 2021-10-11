@@ -99,12 +99,6 @@ tr:nth-child(odd) {
     height: 45px;
 }
 
-
-.structureTable tr.light + tr td:nth-child(1), .structureTable tr.dark + tr td:nth-child(1) {
-    display: none;
-}
-
-
 /* Name Column */
 .structureTable tr td:nth-child(2) {
     font-weight: bold;
