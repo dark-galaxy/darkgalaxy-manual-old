@@ -1,0 +1,3 @@
+Name	Image	Metal	Mineral Workers	Turns	Requirements	Score
+Worker  https://beta.darkgalaxy.com/images/units/small/worker.png	[!Worker:CONDITION:Metal!]	[!Worker:CONDITION:Mineral!]	[!Worker:CONDITION:Worker!]	[!Worker:CREATE:Turns!]	Free housing	[!Worker:SCORE:Asset!]
+Soldier https://beta.darkgalaxy.com/images/units/small/soldier.png	[!Soldier:CONDITION:Metal!]	[!Soldier:CONDITION:Mineral!]	[!Soldier:CONDITION:Worker!]	[!Soldier:CREATE:Turns!]	[!Soldier:REQUIREMENTS:0!]	[!Soldier:SCORE:Asset!]
