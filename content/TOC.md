@@ -41,5 +41,6 @@
     3. [List of ships](/content/reference/list-of-ships.md)
     4. [List of colonists](/content/reference/list-of-colonists.md)
     5. [Tech tree](/content/reference/tech-tree.md)
+    5. [Travel times](/content/reference/travel-times.md)
 6. [FAQs](/content/frequently-asked-questions.md)
 7. [Contributing](/content/contributing.md)
