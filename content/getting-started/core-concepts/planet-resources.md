@@ -63,15 +63,11 @@ The abundance value is a multiplier for resource output. In the example above th
 So that's the basic planet information, and how it relates to gameplay, hopefully now you'll be able to look at, evaluate, and understand planets with relative ease!
 
 
-
-
-
 [coord]: /assets/misc/coords.gif	"Coordinate"
-[ worker ]: /assets/resources/worker.gif "Worker"
+[worker]: /assets/resources/worker.gif "Worker"
 [soldier]: /assets/colonists/soldier.gif "Soldier"
 [ground]: /assets/resources/ground.gif "Ground"
 [orbit]: /assets/resources/orbit.gif "Orbit"
 [metal]: /assets/resources/metal.gif "Metal"
 [mineral]: /assets/resources/mineral.gif "Mineral"
 [energy]: /assets/resources/energy.gif "Energy"
-
