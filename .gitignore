@@ -1,2 +1,12 @@
 .idea
 .DS_Store
+
+# Files needed to test styles & build .md files
+composer.json
+composer.lock
+index.php
+template.php
+
+assets/manual.css
+assets/template/
+vendor/
