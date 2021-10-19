@@ -42,10 +42,6 @@ td {
     padding: 6px 13px;
 }
 
-tr td:nth-child(1) {
-    font-weight: bold;
-}
-
 tr:nth-child(even) {
     background-color: rgba(75, 75, 75, 0.6)
 }
@@ -61,6 +57,10 @@ tr:nth-child(odd) {
 
 .mineral {
     color: #E33E4C;
+}
+
+.food {
+    color: #73AA35;
 }
 
 .energy {
@@ -90,51 +90,50 @@ tr:nth-child(odd) {
 }
 
 /* Image Column */
-.structureTable tr td:nth-child(1) {
+.structureTable td.image {
 
 }
 
-.structureTable tr td:nth-child(1) img {
+.structureTable td img {
     width: 45px;
     height: 45px;
 }
 
-
-.structureTable tr.light + tr td:nth-child(1), .structureTable tr.dark + tr td:nth-child(1) {
-    display: none;
-}
-
-
 /* Name Column */
-.structureTable tr td:nth-child(2) {
+.structureTable td.name {
     font-weight: bold;
 }
 
 /* 'Output / Description */
-.structureTable tr.light + tr td:nth-child(2), .structureTable tr.dark + tr td:nth-child(2) {
+.structureTable td.description {
     text-align: right;
     font-style: italic;
     font-weight: normal;
 }
 
 /* Metal */
-.structureTable tr td:nth-child(3) {
+.structureTable td.metal {
     color: #EEEEEE;
 }
 
 /* Mineral */
-.structureTable tr td:nth-child(4) {
+.structureTable td.mineral {
     color: #E33E4C;
 }
 
 /* Energy */
-.structureTable tr td:nth-child(5) {
+.structureTable td.energy{
     color: #6596DA;
 }
 
-/* Population */
-.structureTable tr td:nth-child(8) {
+/* Worker */
+.structureTable td.worker {
     color: #EAC861;
+}
+
+/* Soldier */
+.structureTable td.soldier {
+    color: #9a000f;
 }
 
 .structureTable tr.title {

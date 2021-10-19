@@ -1,4 +1,4 @@
-The game is split into 3 distinct areas which are each given a unique coordinate. 
+The game is split into 4 distinct areas which are each given a unique coordinate. 
 
 The first coordinate shows which sector of the galaxy you are in.
 
@@ -6,11 +6,11 @@ The second coordinate shows which system within the sector.
 
 The third coordinate shows which planet you are at.
 
-All players start with their home planet which is given the coordinates 0.0.0.
+All players start with their home planet which is given the coordinates 0.0.0.0.
 
 In order to travel to a new planet you will need to first create a fleet in your ship yard and add ships to it on your fleet page.
 
-Once your fleet is ready to move the fleet page allows you to add the coordinates so if you wish to move to a new planet you would simply put in the 3 numbers that relate to that planet and hit move e.g. 1.1.1.
+Once your fleet is ready to move the fleet page allows you to add the coordinates so if you wish to move to a new planet you would simply put in the 3 numbers that relate to that planet and hit move e.g. 1.1.1.1.
 
 You can also use the drop down menu for any planets you own so that you don't have to remember all your planet coordinates.
 
