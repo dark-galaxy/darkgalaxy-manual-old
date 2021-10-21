@@ -48,8 +48,8 @@
         <td class="name">Metal Mine</td>
         <td class="metal">[!Metal_Mine:CONDITION:Metal!]</td>
         <td class="mineral">[!Metal_Mine:CONDITION:Mineral!]</td>
-        <td class="energy">[!Metal_Mine:UPKEEP:Energy!]</td>
         <td class="food">[!Metal_Mine:UPKEEP:Food!]</td>
+        <td class="energy">[!Metal_Mine:UPKEEP:Energy!]</td>
         <td class="ground">[!Metal_Mine:CONDITION:Ground!]</td>
         <td class="orbit">[!Metal_Mine:CONDITION:Orbit!]</td>
         <td class="worker">[!Metal_Mine:CONDITION:Worker!]</td>
